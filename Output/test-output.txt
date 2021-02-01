@@ -1,0 +1,3861 @@
+Sentence: & gt ; * The soldier was killed when another avalanche hit an army barracks in the northern area of Sonmarg "," said a military spokesman . 
+Entities []
+
+Sentence: & gt ; * Police last week evacuated 80 villagers from Waltengoo Nar where dozens were killed after a series of avalanches hit the area in 2005 in the south of the territory . 
+Entities [('Waltengoo', 'B-location'), ('Nar', 'I-location')]
+
+Sentence: & gt ; * The army on Thursday recovered the bodies of ten of its men who were killed in an avalanche the previous day . 
+Entities []
+
+Sentence: & gt ; * The four civilians killed included two children of a family whose house was hit by a separate avalanche "," also on Wednesday "," a police spokesman said . 
+Entities []
+
+Sentence: The bodies of the soldiers were recovered after the concerted efforts of the Avalanche Rescue Teams ( ART ) "," which is equipped to work in inhospitable terrain and weather conditions . 
+Entities []
+
+Sentence: & gt ; * Arrangements are in place to carry the mortal remains of the martyrs to their native places immediately after weather becomes clear "," Defence Spokesman Colonel Rajesh Kalia said . 
+Entities []
+
+Sentence: Visuals of the avalanche site in Gurez sector . 
+Entities []
+
+Sentence: ( Source : ANI ) Visuals of the avalanche site in Gurez sector . 
+Entities []
+
+Sentence: ( Source : ANI ) 
+Entities []
+
+Sentence: “ Arrangements are in place to carry the mortal remains of the martyrs to their native places immediately after weather becomes clear "," ” Defence Spokesman Colonel Rajesh Kalia said . 
+Entities []
+
+Sentence: Watch What Else is Making News 
+Entities []
+
+Sentence: “ Swift action by a few soldiers at the post and timely help from the villagers of Mahazgund ensured saving of six soldiers . 
+Entities []
+
+Sentence: Unfortunately "," three soldiers could not be saved whose bodies were retrieved on January 26 by the ARTs that were rushed to the post "," ” he said . 
+Entities []
+
+Sentence: ^ Function ^ : ^ I ^ post ^ the ^ article ' s ^ text ^ as ^ a ^ comment ^ if ^ the ^ website ^ is ^ adblocker ^ unfriendly . 
+Entities [('adblocker', 'I-location')]
+
+Sentence: [ ^ I ^ accept ^ commands ! 
+Entities []
+
+Sentence: Road and airport closure isolate Srinagar as avalanche risk remains high 
+Entities [('Srinagar', 'B-person')]
+
+Sentence: [ IMAGE ] ( http://images.indianexpress.com/2015/05/drdo-logo-thumb.jpg?w=480 ) 
+Entities []
+
+Sentence: The DRDO is working on projects to develop new technologies to predict avalanches in a much precise manner . 
+Entities []
+
+Sentence: ( File Photo ) The DRDO is working on projects to develop new technologies to predict avalanches in a much precise manner . 
+Entities []
+
+Sentence: ( File Photo ) 
+Entities []
+
+Sentence: The Defence Research Development Organisation ( DRDO ) is working on four projects to develop new technologies for more accurate prediction of avalanches "," the government said on Friday . 
+Entities []
+
+Sentence: “ Presently "," the DRDO is working on four projects to develop new technologies for more accurate prediction of avalanches "," ” he said in a written response . 
+Entities []
+
+Sentence: Replying to another question "," Bhamre said the jawans deployed at places such as Siachen Glacier are provided with the best-quality winter clothing . 
+Entities [('Bhamre', 'B-location'), ('Siachen', 'B-person'), ('Glacier', 'I-person')]
+
+Sentence: He said the soldiers deployed in Siachen are being provided pre-fabricated insulated shelters . 
+Entities [('Siachen', 'B-person')]
+
+Sentence: “ In Navy "," advisories on mental health are issued from time to time and stress relieving activities like yoga "," art of living are conducted periodically . 
+Entities [('Navy', 'B-location')]
+
+Sentence: ^ Function ^ : ^ I ^ post ^ the ^ article ' s ^ text ^ as ^ a ^ comment ^ if ^ the ^ website ^ is ^ adblocker ^ unfriendly . 
+Entities [('adblocker', 'I-location')]
+
+Sentence: [ ^ I ^ accept ^ commands ! 
+Entities []
+
+Sentence: & gt ; Umm "," where are all these alleged criticisms ? 
+Entities []
+
+Sentence: This fucker should be sent up the fucking river because of what he did not because he likes Trump . 
+Entities []
+
+Sentence: Bhangra is Punjabi . 
+Entities [('Punjabi', 'B-location')]
+
+Sentence: A lot of people thought it was a joke but did n ' t think it was appropriate for a PR exec to make . 
+Entities []
+
+Sentence: Toni Kroos - [ here ] ( https://www.reddit.com/r/soccer/comments/5my29a/nearcertain_fifpro_xi_for_2016_neuer_dani_alves/ ) is the ( near-certain ) full XI . 
+Entities [('XI', 'B-person')]
+
+Sentence: [ Rip Chad ] ( https://www.reddit.com/r/soccer/comments/5mi9bl/granada_and_memo_ochoa_are_ready_to_end_real/ ) 
+Entities []
+
+Sentence: [ link to thread ] ( https://www.reddit.com/r/news/comments/5pc0rf/comment/dcq17sw?st=IY7VWPYA&amp;sh=6e21e751 ) 
+Entities []
+
+Sentence: https://www.reddit.com/r/soccer/comments/5qop2n/deyverson_al%C3%A1ves_and_god%C3%ADn_atl%C3%A9tico_spitting_at/ 
+Entities []
+
+Sentence: Nope "," [ I have multiple sources . 
+Entities []
+
+Sentence: [ Action plan already in place ] ( https://np.reddit.com/r/newzealand/comments/5nvswj/my_israeli_war_effort_and_money_saving_tip_how_to/?ref=search_posts ) 
+Entities []
+
+Sentence: KEINE BREMSEN ! 
+Entities []
+
+Sentence: All those in favor say " Jina did it " . 
+Entities [('Jina', 'B-person')]
+
+Sentence: What country in Europe has n ' t she stabbed in the back or undermined their interests ? " 
+Entities [('Europe', 'B-location')]
+
+Sentence: He got sent off in the last game vs Bordeaux . 
+Entities []
+
+Sentence: https://www.reddit.com/r/newzealand/comments/5p0edk/comment/dcnrf9t?st=IY5U4XSO&amp;sh=9fd7c3a9Ijustcouldn'tseetheedgeoftheNewplymouthradarcircleonOP'spic. 
+Entities []
+
+Sentence: COYB ! 
+Entities []
+
+Sentence: Oh well . 
+Entities []
+
+Sentence: / r / politics yesterday : Trump has n ' t had a press conference in a long time , he ' s avoiding the media 
+Entities [('Trump', 'B-person')]
+
+Sentence: It ' s been a hit out in the world since Fragrant posted it here , Daily Edge Sid a piece too even - https://www.reddit.com/r/ireland/comments/5m6bs8/kerrygolds_african_tv_ads_are_a_little_bit_uhh/ 
+Entities []
+
+Sentence: Guy sounds like a Grade A Douche 
+Entities []
+
+Sentence: Biased , but I think the best part of this is that a MetaCanadian has the top comment . 
+Entities []
+
+Sentence: https://www.reddit.com/r/soccer/comments/5nhf8x/walter_smithmessi_was_right_we_did_play/dcbjevx/?context=3onthecontrarytrueMadridistasloveme.??CryMessifanboy 
+Entities []
+
+Sentence: It ' s actually copypasta from a post I did a couple April fools ago when r / soccer was all troll posts . 
+Entities []
+
+Sentence: I hope y ' all take back what you said at Glenn Greenwald in the last thread . 
+Entities [('Glenn', 'B-location'), ('Greenwald', 'I-person')]
+
+Sentence: Comme ça : 
+Entities []
+
+Sentence: [ New MatchThread here . 
+Entities []
+
+Sentence: LMAOOOOOOOO , are the Democrats really doubling down on the thing that got Trump elected in first place ? 
+Entities [('LMAOOOOOOOO', 'B-person'), ('Democrats', 'B-location'), ('Trump', 'B-person')]
+
+Sentence: Living Computer Museum + Labs , Skyview Observatory , Smith Tower and Observation Deck , 
+Entities [('Computer', 'B-location'), ('Museum', 'I-location'), ('Skyview', 'B-location'), ('Observatory', 'I-location'), ('Smith', 'B-person'), ('Tower', 'I-person')]
+
+Sentence: You posted this in TD so why are you still posting here ? 
+Entities [('TD', 'B-location')]
+
+Sentence: Aww shit this gonna go into overdrive now 
+Entities []
+
+Sentence: CVS selling their own version of epipen at 1 / 6 th price . 
+Entities []
+
+Sentence: Trump : I ' m going to bring back manufacturing jobs to Michigan ! 
+Entities [('Michigan', 'B-location')]
+
+Sentence: Becky in a Snickers advert ? 
+Entities [('Becky', 'B-location'), ('Snickers', 'B-location')]
+
+Sentence: ] ( https://www.reddit.com/r/soccer/comments/13xmsv/we_all_know_the_neymars_the_g%C3%B6tzes_and_the_iscos/c785ffz/?utm_content=permalink&amp;utm_medium=front&amp;utm_source=reddit&amp;utm_name=soccer ) 
+Entities []
+
+Sentence: I looked this up yesterday actually ; the average household income for Auckland in 2016 was $ 104 k . 
+Entities [('Auckland', 'B-location')]
+
+Sentence: You mean they had rain [ 4 years ago ] ( https://www.reddit.com/r/ireland/comments/11mm7z/plunkett_station_waterford/ ) in Ireland . 
+Entities [('Ireland', 'B-location')]
+
+Sentence: I remember having parliament on the radio in my car and hearing Leyonhjelm [ give this speach ] ( https://np.reddit.com/r/australia/comments/307z4f/leyonhjelm_on_metadata/ ) which was impressive . 
+Entities []
+
+Sentence: Looks like Grimaldo is linked with MU too 
+Entities []
+
+Sentence: But I thought he had joined Boro ? 
+Entities []
+
+Sentence: You posted in / r / calgary too . . 
+Entities []
+
+Sentence: [ This interview ] ( https://www.reddit.com/r/Calgary/comments/4m2l26/unbelievable_interview_on_770_with_sean_chu/ ) from June was hilarious until you realize that he makes decision that affect the direction the city moves in . 
+Entities []
+
+Sentence: & gt ; Cavani has the highest conversion rate in Europe 
+Entities [('Cavani', 'B-person')]
+
+Sentence: Cheney ' s back . 
+Entities [('Cheney', 'B-person')]
+
+Sentence: & gt ; It will be very telling ( though probably unsurprising ) how folks like Trey Gowdy and Jason Chaffetz react to this . 
+Entities [('Trey', 'B-person'), ('Gowdy', 'I-person'), ('Jason', 'B-person'), ('Chaffetz', 'I-person')]
+
+Sentence: * * redditor * * : NLWastedLink 
+Entities []
+
+Sentence: Dzeko penalty miss will be [ r / soccer ] ( https://www.reddit.com/r/soccer/ ) top post . 
+Entities [('Dzeko', 'B-location')]
+
+Sentence: Wow , / r / news totally kicked the shit out of / r / politics on this topic . 
+Entities []
+
+Sentence: Love Lynda . 
+Entities [('Lynda', 'B-person')]
+
+Sentence: Here ' s a link to a Redditor ' s experience in Calgary : 
+Entities []
+
+Sentence: [ OP of the previous threads could n ' t handle the Ronaldo criticism . 
+Entities [('Ronaldo', 'B-person')]
+
+Sentence: You ' re speaking from a Brit ' s point of view . 
+Entities []
+
+Sentence: * * redditor * * : Quickloot 
+Entities []
+
+Sentence: * * submission title * * : Battle underway for return of Napoleon ' s horse Marengo to Ireland 
+Entities [('Napoleon', 'B-location'), ('Ireland', 'B-location')]
+
+Sentence: [ Yo . 
+Entities []
+
+Sentence: * * submission title * * : Does anyone know if anyone has started protesting at CVG yet ? 
+Entities [('CVG', 'B-location')]
+
+Sentence: Reddit ' s tough guys say yes . 
+Entities []
+
+Sentence: Media pounces on it . 
+Entities []
+
+Sentence: they changed all the topics to Zlatan . 
+Entities []
+
+Sentence: The mods deleted [ this story about activists being beaten by Trump supporters ] ( https://m.reddit.com/r/politics/comments/5m3r1c/activists_brutally_attacked_by_donald_trump/ ) for being off topic . 
+Entities [('Trump', 'B-person')]
+
+Sentence: Yeah , and they get all misty-eyed about government-owned businesses and how awful it is that Costello sold them off etc , only because they ' re not old enough to remember having to deal with government-owned businesses and how fucking useless they are : 
+Entities []
+
+Sentence: Step 2 : [ Google ] ( http://www.google.co.nz ) 
+Entities []
+
+Sentence: Lol this is what city pussis think of living outside a major city is like 
+Entities []
+
+Sentence: You could try and send an email to the teams and see what they reply : D 
+Entities []
+
+Sentence: Resultat . dk 
+Entities []
+
+Sentence: * * Edit : * * Wow , that blew up . 
+Entities []
+
+Sentence: I asked Bellerin v walker in a match thread a few months ago , the results might surprise you . 
+Entities [('Bellerin', 'B-person')]
+
+Sentence: & gt ; Barca flair 
+Entities []
+
+Sentence: Where ' s the one from ~ ~ Syria ~ ~ Serbia where some guy banged it over the bar from the goalline ? 
+Entities [('Syria', 'B-person'), ('Serbia', 'B-person')]
+
+Sentence: Hey Tom , can you comment on this thread ? 
+Entities [('Tom', 'B-person')]
+
+Sentence: & gt ; you cannot infer much from a single quarter ' s GDP statistics . 
+Entities []
+
+Sentence: True , but I imagine it would be a lot lower and as I pointed out to Andrew Little would be cheaper than [ eliminating fees . 
+Entities []
+
+Sentence: She ' s been making me question my sexuality since The X-Files started . 
+Entities []
+
+Sentence: * * submission title * * : PSG tell Inter & amp ; Juve Verratti will cost € 100 M 
+Entities [('Juve', 'B-person'), ('Verratti', 'I-person')]
+
+Sentence: Not sure if trust Donald on this . 
+Entities [('Donald', 'B-person')]
+
+Sentence: EDIT : No actually screw that , i ' d like to ask why you ' d want attacks on Trump supporters to continue ? 
+Entities [('Trump', 'B-person')]
+
+Sentence: Perhaps this paper instead actually suggests that students born in July are underdiagnosed ? 
+Entities []
+
+Sentence: If PNG is undeveloped , would n ' t resettling the boats full of surgeons be exactly what they need ? 
+Entities []
+
+Sentence: Maybe you could try contacting the producer ( Great Southern Television ) 
+Entities []
+
+Sentence: & gt ; I ' m an ex Muslim 
+Entities []
+
+Sentence: There is nothing wrong with the Huron disposal site . 
+Entities []
+
+Sentence: Her name is Scout . 
+Entities []
+
+Sentence: Morocco here we come let ' s make that 4 - 11 - 13 not 14 loss 
+Entities [('Morocco', 'B-person')]
+
+Sentence: 98 . 2 % of Costa Rica ' s electricity came from renewable sources in 2016 . 
+Entities [('Costa', 'B-location'), ('Rica', 'I-location')]
+
+Sentence: Was on the DSP and found his / her way back to a normal life with his / her own income . 
+Entities []
+
+Sentence: * * submission title * * : Proposed class action against B . C . 
+Entities []
+
+Sentence: [ Source ] ( https://www.reddit.com/r/southafrica/comments/5sdwm2/breaking_joost_van_der_westhuizen_dies/ ) at / r / southafrica 
+Entities []
+
+Sentence: The idea that one IRA was kinder or more moral than the other is ludicrous . 
+Entities []
+
+Sentence: I hear audio in the first AA streamable link but not the one with full build up . 
+Entities []
+
+Sentence: Surprisingly no PMs yet , got tagged in [ this ] ( https://www.reddit.com/r/worldnews/comments/5fqfwh/platypus_venom_paves_way_to_possible_diabetes/damdpro/ ) though , and it ' s pretty thorough . 
+Entities []
+
+Sentence: The rest of your post has already been refuted by yourself , as you acknowledged [ in another post ] ( https://np.reddit.com/r/news/comments/5nur87/former_mi6_spy_known_to_us_agencies_is_author_of/dcf1k74/ ) that what Paul Manafort did is * * a fucking crime * * . 
+Entities [('Paul', 'B-person'), ('Manafort', 'I-person')]
+
+Sentence: For those complaining about Rule 6 ( not related to Calgary ) . . . . this story is an update to this previous / r / Calgary submission which did not get removed : 
+Entities []
+
+Sentence: You do realize this was published by CBC Manitoba . 
+Entities []
+
+Sentence: * * submission title * * : Diego Rolan goal vs PSG ( 1 - 1 ) 
+Entities [('Diego', 'B-person'), ('Rolan', 'I-person')]
+
+Sentence: Dude [ definitely definitely ] ( https://www.reddit.com/r/unitedkingdom/comments/5fwbo2/can_someone_explain_why_capitalism_isnt_solving/ ) does n ' t understand the housing market at all . 
+Entities []
+
+Sentence: Here is the background on Rastus and Pete . 
+Entities [('Rastus', 'B-location'), ('Pete', 'B-person')]
+
+Sentence: For people asking about the torture video : [ Click here ] ( https://www.reddit.com/r/news/comments/5m2ivk/chicago_police_4_in_custody_after_young_man/ ) 
+Entities []
+
+Sentence: Rudder breaks . 
+Entities []
+
+Sentence: Hey check out this : https://www.reddit.com/r/unitedkingdom/comments/5ly5cy/rock_hard_brexit/dbzk92t/ 
+Entities []
+
+Sentence: * * submission title * * : Concorde over Calgary 1977 
+Entities [('Concorde', 'B-person')]
+
+Sentence: That ' s why I have np at the start of the URL as per the sub ' s T & amp ; C ' s . 
+Entities []
+
+Sentence: [ Oh look . 
+Entities []
+
+Sentence: [ Staaaahp ] ( http://www.reddit.com/r/news/comments/5m863w/-/dc25xfj ) 
+Entities []
+
+Sentence: [ It ' s compulsory ] ( https://www.reddit.com/r/ireland/comments/5ne8br/xpost_offmychest_i_fucking_hate_susi/dcax278/ ) for OP ' s course . 
+Entities []
+
+Sentence: [ The link to the AmA is at the top of this thread . 
+Entities [('AmA', 'B-person')]
+
+Sentence: Ah , the ol ' Adelaide [ Digeridoo ! 
+Entities []
+
+Sentence: Would take Ntep in a heartbeat and frankly Costil and Sagna would fix two of the weakest spots in the team right now . 
+Entities [('Ntep', 'B-location')]
+
+Sentence: ?????????? ?? ?????????? https://www.reddit.com/r/canada/comments/5p52wh/stephen_harper_trump_will_reverse_the_cornerstone/ 
+Entities []
+
+Sentence: Just ask him about his [ trip to North Korea ] ( https://np.reddit.com/r/AMA/comments/5hywfx/i_have_just_got_back_from_a_trip_to_north_korea/ ) 
+Entities [('North', 'B-location'), ('Korea', 'I-location')]
+
+Sentence: * * submission title * * : Lost RC plane . 
+Entities []
+
+Sentence: & gt ; I believe Peter Hitchens ( Fervent euroskeptic who voted remain ) 
+Entities [('Peter', 'B-location'), ('Hitchens', 'I-group')]
+
+Sentence: Long story short , whats to keep republicans from scrapping the preexisting conditions clause for those with BLD – paid for from some other pocket of govt money – but not for everyone else ? 
+Entities []
+
+Sentence: * [ Stew ' s Self Service Garage ] ( http://stewsgarage.com/ ) 
+Entities []
+
+Sentence: It is well-known that Snickers bewilder and [ delight ] ( https://np.reddit.com/r/ireland/comments/3dpuxy/visiting_your_beautiful_country_this_weekend_want/ ) the Irish . 
+Entities [('Snickers', 'B-location'), ('Irish', 'B-location')]
+
+Sentence: Colluding with Putin , hahaha ! 
+Entities []
+
+Sentence: Source - https://www.reddit.com/r/ireland/comments/5t04xc/there_was_an_attempt/ 
+Entities []
+
+Sentence: I ' d like to see him try that in the NHL 
+Entities []
+
+Sentence: TL ; D R - Do n ' t get your phone from your carrier . 
+Entities [('TL', 'B-location')]
+
+Sentence: There has been a lot of discussion about Uber in general , but I have n ' t seen much in the way of people talking about becoming a driver . 
+Entities []
+
+Sentence: you ' re really late , OP : 
+Entities []
+
+Sentence: https://www.reddit.com/r/soccer/comments/5qovle/sinan_g%C3%BCm%C3%BC%C5%9F_goal_sneijder_assist_galatasaray_6_0/ 
+Entities []
+
+Sentence: [ Warum das eine absolut beschissene Idee ist . 
+Entities []
+
+Sentence: ( personally , I think Rastus is his jilted lover . . . ; ) 
+Entities [('Rastus', 'B-location')]
+
+Sentence: Edit : [ Context in case anyone was wondering ] ( https://www.reddit.com/r/soccer/comments/5pwos9/slug/dcuerzp ) 
+Entities []
+
+Sentence: Yet in [ another post ] ( https://www.reddit.com/r/australia/comments/5m9hs3/labors_linda_burney_requests_auditorgeneral/dc2atzg/ ) you lambast Labor for * * only * * three of their front bench publicly denouncing this debacle . 
+Entities [('Labor', 'B-person')]
+
+Sentence: [ Aaaaaand there it is ] ( https://www.reddit.com/r/newzealand/comments/5zhb0d/auckland_university_has_introduced_allgender/deydfz7/?utm_content=permalink&amp;utm_medium=front&amp;utm_source=reddit&amp;utm_name=newzealand ) 
+Entities []
+
+Sentence: BuzzFeed took the bait . 
+Entities []
+
+Sentence: / r / canada used to say the CBC went clickbait because those evil cons tried to defund them , but the rut is clearly much deeper and more permanent . 
+Entities [('CBC', 'B-location')]
+
+Sentence: * * comment content * * : Marseille has . 
+Entities [('Marseille', 'B-location')]
+
+Sentence: Original post : [ ' Many wounded ' in Istanbul nightclub attack ] ( https://www.reddit.com/r/worldnews/comments/5lcaed/many_wounded_in_istanbul_nightclub_attack/ ) 
+Entities []
+
+Sentence: It ' s got the GIFs of the goals . 
+Entities []
+
+Sentence: Velvet has such a thin skin he actually deleted and resubmitted an article because someone disagreed with him : 
+Entities [('Velvet', 'B-location')]
+
+Sentence: Hector was holding back I assume playing it safe with injuries / fitness . 
+Entities []
+
+Sentence: Exatamente . 
+Entities []
+
+Sentence: Narsingh to see here , [ r / soccer thread ] ( https://www.reddit.com/r/soccer/comments/5ne3ed/psv_right_winger_luciano_narsingh_set_to_move_to/ ) totally brutal 
+Entities []
+
+Sentence: you mean Tomi Lahren , I just referenced her here 
+Entities [('Tomi', 'B-person'), ('Lahren', 'I-person')]
+
+Sentence: * * redditor * * : JamesakaNoah 
+Entities []
+
+Sentence: Wow , I ' m an idiot . 
+Entities []
+
+Sentence: Most women in Muslim countries are [ happy with their situation ] ( https://www.reddit.com/r/worldnews/comments/54khw0/saudi_women_file_petition_to_end_male/d82ygzg/ ) . 
+Entities []
+
+Sentence: I remember around a year ago there was a post about how Ronaldo had scored over 40 % of Madrid ' s goals since 2009 . 
+Entities [('Madrid', 'B-location')]
+
+Sentence: They actually regularly upvote posts to the front page asking " why do so many right leaning people post here REEEE " 
+Entities []
+
+Sentence: As you can see the Stoke mafia ganged up on him big time . 
+Entities []
+
+Sentence: Best Pho in Calgary 
+Entities []
+
+Sentence: The title should just be a literal copy of the tweet , which mentions Swansea . 
+Entities []
+
+Sentence: Hopefully , Bex negotiated a deal with the Snickers company to supply our island with their delicious chocalate . 
+Entities [('Snickers', 'B-location')]
+
+Sentence: * * submission title * * : Ireland votes to be world ’ s first country to fully divest from fossil fuels 
+Entities []
+
+Sentence: Pls no Tom 
+Entities []
+
+Sentence: [ Snickers ] ( https://www.reddit.com/r/ireland/comments/3dpuxy/visiting_your_beautiful_country_this_weekend_want/ ) 
+Entities []
+
+Sentence: Original post : [ Andy Carroll goal vs Crystal Palace ( 2 - 0 ) ] ( https://www.reddit.com/r/soccer/comments/5ny9tj/andy_carroll_goal_vs_crystal_palace20/ ) 
+Entities [('Andy', 'B-person'), ('Carroll', 'I-person'), ('Crystal', 'B-location'), ('Palace', 'I-location')]
+
+Sentence: Uh , they ' re actually pretty well off compared to the rest of the country . 
+Entities []
+
+Sentence: Did you miss [ this ] ( https://www.reddit.com/r/soccer/comments/5lrdkr/ars%C3%A8ne_wenger_in_20_years_it_is_the_most_uneven/?ref=search_posts ) yesterday ? 
+Entities []
+
+Sentence: [ Ritchie McClaw ] ( https://imgur.com/a/xP0Ta ) 
+Entities []
+
+Sentence: Crosspost do r / worldnews , https://www.reddit.com/r/worldnews/comments/5nktt8/brazilian_farm_owners_form_militias_to_attack/ 
+Entities []
+
+Sentence: Ca serait meme plutot le contraire , sans ce feu , il n ' y aurait eu probablement pas de survivant : https://np.reddit.com/r/worldnews/comments/5lf41g/titanic_sank_due_to_enormous_uncontrollable_fire/dbvlteg/?contex=7 
+Entities []
+
+Sentence: I ' m saying this guy is assuming that they assumed he supported Trump because he ' s white . 
+Entities [('Trump', 'B-person')]
+
+Sentence: Hey u / nicklovettnz - Stuff have [ nicked your picture . 
+Entities []
+
+Sentence: * * submission title * * : Middleborough in talks to sign Jese Rodriguez 
+Entities [('Jese', 'B-person'), ('Rodriguez', 'I-person')]
+
+Sentence: The TLDR is all you really need , but the best 3 word definition is 
+Entities []
+
+Sentence: [ From Barcelona , the stand-out youngsters are Deulofeu , Dongou and Grimaldo . 
+Entities [('Barcelona', 'B-location'), ('Deulofeu', 'B-person'), ('Dongou', 'B-person')]
+
+Sentence: - Jürgen Klopp 
+Entities [('Jürgen', 'B-person'), ('Klopp', 'I-person')]
+
+Sentence: It was n ' t even funny like the Multinational Corporation one yesterday . 
+Entities []
+
+Sentence: Lol , this is the dick whose parents left him a house 
+Entities []
+
+Sentence: * * submission title * * : Official : PSG sign Gonçalo Guedes for 25 million € 
+Entities []
+
+Sentence: https://www.reddit.com/r/soccer/comments/1u1epb/lewandowski_about_contract_negotiations_with_bvb/NowheisbestpaidplayerinBL 
+Entities []
+
+Sentence: Is it the Shiba Inu extensively described in the top post right now ? 
+Entities [('Shiba', 'B-person'), ('Inu', 'I-person')]
+
+Sentence: The main problems can be summed up with Peter Lim though from my limited knowledge . 
+Entities []
+
+Sentence: * * submission title * * : ZM ( possibly other radio stations ) adding rap features to normal songs ? 
+Entities [('normal', 'B-location')]
+
+Sentence: Well looks like Demolition Man has come true . 
+Entities []
+
+Sentence: I do n ' t really understand your problem with the SPLC though . 
+Entities [('SPLC', 'B-location')]
+
+Sentence: [ Ah , the ol ' reddit skin-a-roo ! 
+Entities []
+
+Sentence: Also , check the FIFA XI thread where a lot of people were shitting on him when he actually had a fantastic 2016 
+Entities [('XI', 'B-person')]
+
+Sentence: Will you criticize Trump when he makes mistakes or will you be silent 
+Entities []
+
+Sentence: On Reddit , I do n ' t think people care as much as they think they do regarding minorities . 
+Entities []
+
+Sentence: It came into effect on the 30 th of December 2016 . 
+Entities []
+
+Sentence: More at https://www.flickr.com/photos/100289769@N08/albums/72157675863392604/with/32395769751/ 
+Entities []
+
+Sentence: EDIT : Heh guess who is already at - 2 in 5 minutes . 
+Entities []
+
+Sentence: [ I know ] ( https://www.reddit.com/r/newzealand/comments/5p7awe/while_the_rest_of_reddit_is_collapsing_in/dcp1n1x/ ) Part of the problem is my brief skim meant that I did n ' t notice they had it because , like Italy , they called it something else . 
+Entities []
+
+Sentence: [ Credit ] ( https://www.reddit.com/r/southafrica/comments/5ylbs0/two_rsouthafrica_users_lose_their_shit_over_a/der8pky/?context=10000 ) to / u / uncle _ retardo 
+Entities []
+
+Sentence: For more info about this and local views on the matter check out where OP took this from . 
+Entities []
+
+Sentence: Edit : Because OP ' s kindness and interest in accommodating other people might rub off on the entitled prick . 
+Entities []
+
+Sentence: There is [ literally a Mises quote ] ( https://www.reddit.com/r/canada/comments/5ojc65/vanguard_says_bank_of_canada_will_hike_rates_this/dckhgn5/ ) in the thread . 
+Entities []
+
+Sentence: Is doch eh nur heiße Luft . 
+Entities []
+
+Sentence: @ Maronti 
+Entities [('Maronti', 'B-location')]
+
+Sentence: Hi . 
+Entities []
+
+Sentence: FYI about a month ago there was a post about general info on protection orders : 
+Entities []
+
+Sentence: [ Live Goal + Replays - AA Mirror HD ] ( https://streamable.com/qlwoq ) 
+Entities [('Mirror', 'B-person'), ('HD', 'I-location')]
+
+Sentence: [ AA Mirror Replays HD - Mixtape ] ( https://my.mixtape.moe/ivwbfd.mp4 ) 
+Entities [('Mirror', 'B-location'), ('HD', 'I-creative-work')]
+
+Sentence: one of the [ top posts ] ( https://www.reddit.com/r/soccer/comments/5qhlub/world_cup_2002_im_still_standing/?utm_content=title&amp;utm_medium=hot&amp;utm_source=reddit&amp;utm_name=soccer ) on / r / soccer right now is about who is still playing from the 2002 World Cup . 
+Entities []
+
+Sentence: [ / r / Ireland ] ( https://www.reddit.com/r/ireland/ ) - & gt ; [ / r / Iceland ] ( https://www.reddit.com/r/Iceland/ ) 
+Entities []
+
+Sentence: * * submission title * * : British man dies working on Qatar 2022 World Cup stadium 
+Entities []
+
+Sentence: [ I just think Trump is better than Hillary ] ( https://www.reddit.com/r/worldnews/comments/5mimc4/canada_judge_suspended_for_wearing_trump_cap_in/dc4o8v0/?utm_content=permalink&amp;utm_medium=user&amp;utm_source=reddit&amp;utm_name=frontpage ) 
+Entities [('Trump', 'B-person')]
+
+Sentence: Also , do n ' t forget [ drinks this Friday at Kelly ' s in Newtown ] ( https://www.reddit.com/r/sydney/comments/5z1ahm/st_patricks_day_drinks_kellys_on_king_newtown/?st=j098chos&amp;sh=f63980b5 ) 
+Entities [('Kelly', 'B-location'), ('Newtown', 'B-location')]
+
+Sentence: How do you know your ROZ post wo n ' t be removed for editorialising ? 
+Entities []
+
+Sentence: [ Haha , because he deserves it ] ( https://www.reddit.com/r/sports/comments/5m14qm/today_marks_the_10th_anniversary_of_one_of_the/dc0m5ba/ ) . 
+Entities []
+
+Sentence: Heh , it did n ' t go down [ well ] ( https://np.reddit.com/r/southafrica/comments/5o7yr4/hey_guys_im_trying_to_collect_photos_of_people/ ) 
+Entities []
+
+Sentence: [ Aah , the old Reddit deatharoo ] ( https://www.reddit.com/r/newzealand/comments/5m9mam/kia_ora_rbrasil_cultural_exchange_with_rbrasil/dc3dgin/?context=3 ) 
+Entities []
+
+Sentence: I could only find this Reddit thread with the most comments https://www.reddit.com/r/news/comments/4kyylo/white_high_school_football_players_in_idaho/. 
+Entities []
+
+Sentence: * * redditor * * : Thorvirdh 
+Entities []
+
+Sentence: Searching . . . searching . . . Nope , not an argument in sight . 
+Entities []
+
+Sentence: See response from / u / imkatnotcat [ above ] ( https://www.reddit.com/r/newzealand/comments/5pl7f8/why_do_i_have_to_give_30_days_notice_to_move_isps/dcs13je/ ) . 
+Entities []
+
+Sentence: They charged him douchebaggery , and he [ proved it , ] ( https://www.reddit.com/r/sports/comments/5mr4wn/ronnie_osullivan_clears_a_challenging_table_after/dc5trbm/ ) so they had to STFU . 
+Entities []
+
+Sentence: [ Reference ] ( https://www.reddit.com/r/soccer/comments/3xcrjc/after_not_passing_rvp_asks_memphis_do_you_think/ ) 
+Entities []
+
+Sentence: The OP here deleted it ( dunno why ) - https://www.reddit.com/r/ireland/comments/5nnero/you_will_forever_be_in_my_heart/ 
+Entities []
+
+Sentence: Obligatory spruik for drinks Friday 
+Entities []
+
+Sentence: [ OP is a dirty karma whoring bundle of sticks ] ( https://www.reddit.com/r/ireland/comments/5vtaf1/_/de5j4t5 ) 
+Entities []
+
+Sentence: Obligatory link to [ Oldies Night ] ( https://www.reddit.com/r/sydney/comments/5xl59i/oldies_night_18_march_2017_bavarian_bier_cafe/ ) next week . 
+Entities []
+
+Sentence: They are having a field day over in News . 
+Entities []
+
+Sentence: I want anyteam to win it except PSG . 
+Entities []
+
+Sentence: See also [ Will António Guterres be the UN ' s best ever secretary general ? 
+Entities [('António', 'B-person')]
+
+Sentence: It ' s Uber , but for chinese speaking folk only and its illegal . 
+Entities []
+
+Sentence: The media ' s narrative was not that that extreme but it definitely was attacking Trump and his supporters pretty much non- stop . 
+Entities [('Trump', 'B-person')]
+
+Sentence: That seems like something someone who supposedly [ works in Sandringham ] ( https://www.reddit.com/r/unitedkingdom/comments/5k7ndn/the_queen_has_passed_away_and_the_news_is_being/dblxu0p/ ) would know . 
+Entities [('Sandringham', 'B-location')]
+
+Sentence: This is a post I made in December . 
+Entities []
+
+Sentence: It was removed within 2 minutes , flagged as " Off-topic " . 
+Entities []
+
+Sentence: Hey , whoever screen captured the page with the 6 months listed want to link it again for the people who are going to get owned in the coming months ? 
+Entities []
+
+Sentence: [ Worldnews ] ( https://www.reddit.com/r/worldnews/search?q=Turkey+Nightclub&amp;restrict_sr=on&amp;sort=relevance&amp;t=all ) . 
+Entities []
+
+Sentence: Hi there / u / Mo-bot , the actual AMA [ can be found here ] ( https://www.reddit.com/r/newzealand/comments/5q10gc/ask_me_anything_act_leader_david_seymour/ ) . 
+Entities []
+
+Sentence: AMA with the leader of the Conservative Party . 
+Entities []
+
+Sentence: [ Live in Dalhousie ] ( https://www.reddit.com/r/Calgary/comments/5lg5bb/snow_angels/ ) ? 
+Entities []
+
+Sentence: I was just looking at the wayback machine on / r / politics : here ' s the front page for September on / r / politics : 
+Entities []
+
+Sentence: Hey jackass , [ check this out ] ( https://www.reddit.com/r/news/comments/5nk8h6/exxonmobil_has_lost_a_key_battle_in_an/ ) 
+Entities []
+
+Sentence: [ Da nAh NAH NAAAHHH ! 
+Entities []
+
+Sentence: This appartently is n ' t political enough to be on / r / politics despite the man being forced to yell " fuck Trump " . 
+Entities [('Trump', 'B-person')]
+
+Sentence: To their credit , they recently doubled their space in Yaletown . 
+Entities [('Yaletown', 'B-location')]
+
+Sentence: The Prem is better , but only slightly . 
+Entities []
+
+Sentence: / r / politics is not at all alt-left at present , IMO . 
+Entities []
+
+Sentence: 3 weeks from now a Centrelink recipient kills himself . 
+Entities []
+
+Sentence: [ Source ] ( https://www.reddit.com/r/ireland/comments/5lqzoe/found_this_kind_of_cool/ ) at / r / ireland 
+Entities []
+
+Sentence: Hello and welcome to / r / southafrica ! 
+Entities []
+
+Sentence: Edit : [ Bingo . 
+Entities []
+
+Sentence: [ Well shit I was wrong ] ( https://www.reddit.com/r/soccer/comments/5mlhy7/match_thread_preston_north_end_vs_arsenal/dc4h57s/?context=3 ) 
+Entities []
+
+Sentence: Here you go [ Source ] ( https://www.reddit.com/r/news/comments/5m863w/hate_crime_charges_filed_against_4_in_torture_of/dc1n6t7/ ) 
+Entities []
+
+Sentence: [ Source ] ( https://www.reddit.com/r/newzealand/comments/5t2puj/maori_stormtrooper_helmet/ ) at / r / newzealand 
+Entities []
+
+Sentence: Wow , just wow . 
+Entities []
+
+Sentence: The guy who ate Sudocrem : 
+Entities []
+
+Sentence: Bingo . 
+Entities []
+
+Sentence: I like u / Womble _ Don ' s post about why Lahm is a good captain . 
+Entities []
+
+Sentence: Chuck this a read https://www.reddit.com/r/newzealand/wiki/titles 
+Entities []
+
+Sentence: They said " Yea because catching the entire force of your body with your arms is always a great idea . " 
+Entities []
+
+Sentence: [ Alternative format ] ( https://www.reddit.com/r/soccer/comments/5n5fg7/oc_an_innovative_format_to_save_the_world_cup_and/ ) 
+Entities []
+
+Sentence: Thanks to u / BordNaMonaLisa for reminding me of this . 
+Entities []
+
+Sentence: I just wrote a fucking novel regarding BLM ' s use of blanket statements [ here . 
+Entities [('BLM', 'B-location')]
+
+Sentence: ' Many wounded ' in Istanbul nightclub attack 
+Entities []
+
+Sentence: Its inconclusive IMO . 
+Entities []
+
+Sentence: So discussion related to , say , " New Zealand " could all go in one place , such as reddit . com / r / newzealand . 
+Entities [('Zealand', 'I-location')]
+
+Sentence: Best of all ^ ^ ^ ( / s ) , they ' ve completely fucked over the [ Statutory Limitation Period ] ( https://www.reddit.com/r/australia/comments/5lwwd1/for_those_caught_up_in_the_centrelink_wave_as_of/dc0o3q7/ ) that limited them from chasing you up to within six years . 
+Entities [('^', 'I-location'), ('^', 'I-location')]
+
+Sentence: Possibly some Internode solutions for you [ here ] ( https://np.reddit.com/r/australia/comments/5kd1z1/google_dns_did_not_work_for_tpb/ ) ? 
+Entities []
+
+Sentence: I wonder how many [ Ticket Operations Coordinators ] ( https://www.reddit.com/r/soccer/comments/5g4bnf/mls_took_my_decade_long_season_seats_away_for_the/daq1sys/ ) work for the Clippers 
+Entities []
+
+Sentence: ITT : mutual respect between Tottenham and Chelsea fans and everyone else shitting on Giroud . 
+Entities [('Tottenham', 'B-location'), ('Chelsea', 'B-person'), ('Giroud', 'B-location')]
+
+Sentence: & gt ; Well like you say they put a bald-faced lie right in the headline . 
+Entities []
+
+Sentence: & gt ; Report antagonizing comments . 
+Entities []
+
+Sentence: Just remember we should be warier of Trump opponents , who also ignore facts , and are [ bigger Nazis than Trump . 
+Entities [('Trump', 'B-person'), ('Trump', 'B-person')]
+
+Sentence: * * subreddit * * : Wellington 
+Entities []
+
+Sentence: Also , a shameless reminder that [ Ladies ' Night is on this Friday ] ( https://www.reddit.com/r/sydney/comments/5ylm1r/ladies_night_round_two_friday_march_24th/ ) rain or shine ! 
+Entities []
+
+Sentence: It ' s like the Twilight Zone of reddit . 
+Entities []
+
+Sentence: Im Video auf [ worldnews ] ( https://www.reddit.com/r/worldnews/comments/5mqif7/truck_rammed_into_pedestrians_in_terrorist_attack/ ) kann man sehen , dass der nicht nur in die Menge fährt , sondern auch zurücksetzt und nochmal in die Liegengebliebenen fährt . . . da fehlen mir die Worte . 
+Entities [('die', 'B-location'), ('Liegengebliebenen', 'I-location')]
+
+Sentence: & gt ; [ I voted Bernie . 
+Entities [('Bernie', 'B-person')]
+
+Sentence: [ Brit clouds ] ( https://www.reddit.com/r/ireland/comments/61i0nu/ufo_spotted_in_arklow/ ) 
+Entities []
+
+Sentence: / r / movies : Film / theatre teacher 
+Entities []
+
+Sentence: This post has like 10 comments and no one except the OP ( who seems to [ shit their pants about the ess jay dubs , just like you ] ( https://www.reddit.com/r/newzealand/comments/5n83qt/another_case_of_an_employer_under_paying_and/dc9sgrj/ ) ) is talking about e-cigs or saying this guy is a saint . 
+Entities []
+
+Sentence: / r / politics : " blablabla political bullshit Hur dur " 
+Entities []
+
+Sentence: https://ceddit.com/r/worldnews/newNah,you'renotblind. 
+Entities []
+
+Sentence: I was referencing a Famous Reddit Post https://www.reddit.com/r/ireland/comments/3dpuxy/visiting_your_beautiful_country_this_weekend_want/ 
+Entities []
+
+Sentence: Jesus christ . 
+Entities [('Jesus', 'B-person')]
+
+Sentence: Chelsea lost yesterday , now I ' m hiding from the match and post match threads on [ / r / soccer / ] ( https://www.reddit.com/r/soccer/ ) 
+Entities [('Chelsea', 'B-person')]
+
+Sentence: Ken King said it himself when he started talking about CalgaryNEXT that he wants * less * seats in the new arena . 
+Entities []
+
+Sentence: LOL . 
+Entities []
+
+Sentence: Writing a fake interview with Messi is easy , [ I even did it myself here a few years ago . . . ] ( https://www.reddit.com/r/soccer/comments/2iz2q9/interviewing_leo_messi/ ) 
+Entities [('Messi', 'B-person')]
+
+Sentence: * * submission title * * : Adebayor signs for Turkish side Basaksehir 
+Entities []
+
+Sentence: One last reminder for [ Oldies Night ] ( https://www.reddit.com/r/sydney/comments/5xl59i/oldies_night_18_march_2017_bavarian_bier_cafe/ ) - still time to join in . 
+Entities []
+
+Sentence: [ Fake News , eh ? 
+Entities []
+
+Sentence: [ Please do n ' t forget that liberals and Democrats are Nazi Useful Idiots who believe government / CIA propaganda and Fake News sites . 
+Entities []
+
+Sentence: [ Okay . 
+Entities []
+
+Sentence: Even though I ' ve only been once through a reciprocal membership , I ' ll nominate Virgin Active at Moore Park / Zetland for you . 
+Entities [('Moore', 'B-location'), ('Park', 'I-location')]
+
+Sentence: [ Answered here . 
+Entities []
+
+Sentence: & gt ; It ' s the body of a 2 time Super Bowl MVP , goddammit . 
+Entities []
+
+Sentence: Geez . 
+Entities []
+
+Sentence: He ' s a ~ ~ not-so- ~ ~ silent guardian , a watchful protector , a Dark Knight . 
+Entities [('Dark', 'B-person'), ('Knight', 'I-person')]
+
+Sentence: err you commented on Zlatan [ right here ] ( https://www.reddit.com/r/soccer/comments/5myr5v/zlatan_ibrahimovic_wins_defamation_case_over/dc7mjon/ ) in a thread where the headline literally contains the phrase " alleged doping allegation " . 
+Entities []
+
+Sentence: Lel 
+Entities []
+
+Sentence: There ' s no problem wanting to feed them , but please , read the guide from Zealandia before doing so : [ Feeding birds at home ] ( http://www.visitzealandia.com/Portals/0/Feeding%20Birds%20at%20Home.pdf ) 
+Entities [('Zealandia', 'B-location')]
+
+Sentence: It happens on United related posts . 
+Entities []
+
+Sentence: Trudeau hanging out with his brother . . . 
+Entities []
+
+Sentence: [ So that random website Sky Sports quoted was correct ] ( https://www.reddit.com/r/soccer/comments/5r9rs3/sky_sports_just_seem_to_openly_not_give_a_fuck/ ) 
+Entities []
+
+Sentence: * * redditor * * : Jay 911 
+Entities [('Jay', 'B-person'), ('911', 'I-person')]
+
+Sentence: What MontansKittenSighs says has nothing to do with me . 
+Entities []
+
+Sentence: [ Oh . 
+Entities []
+
+Sentence: / r / politics has no problem with threads about hate crimes , as long at they ' re being attributed to Trump supporters . 
+Entities [('Trump', 'B-person')]
+
+Sentence: Looking at you , / u / TruFalcon . 
+Entities []
+
+Sentence: & gt ; Are you hoping that someone in R / Calgary just happens to be a stock shelfer there or has an extremely intimate knowledge of all of their 1 million items ? 
+Entities []
+
+Sentence: I am not a huge supporter of Corbyn , ive been rather critical of a lot of his moves recently but I like the idea of a lot of his policies . 
+Entities [('Corbyn', 'B-location')]
+
+Sentence: Of course there are some Leave supporters who are not against immigration . 
+Entities [('Leave', 'B-person')]
+
+Sentence: Hate crime confirmed 
+Entities []
+
+Sentence: I ' m pretty sure this rarely happens in Europe but it ' s still wrong . 
+Entities []
+
+Sentence: Despite being a politically motivated hate crime this was removed by / u / lucastars because of " Off Topic . " 
+Entities []
+
+Sentence: [ Source ] ( https://www.reddit.com/r/sydney/comments/5yvqxt/good_morning_sydney_gamers/ ) at / r / sydney 
+Entities []
+
+Sentence: Fantasy Drama Movie about a Girl Looking for her Father 
+Entities []
+
+Sentence: How does this answer the question ? This is commentary at best . 
+Entities []
+
+Sentence: Path integral measure in Coleman ' s " Aspects of symmetry " 
+Entities [('Coleman', 'B-location')]
+
+Sentence: No . It would be p equals some specified value at some z elevation . This has to correspond to some known pressure at some known elevation . 
+Entities []
+
+Sentence: This is wrong , Electric field is nonconservative when magnetic field is changing and you cannot apply Kirchhoff ' s law then . 
+Entities []
+
+Sentence: Looking up touchscreen history - found this 1981 computer that used Infrared to detect finger movement . Clearly Star Trek was an inspiration . https://en.wikipedia.org/wiki/Touchscreen#/media/File:Platovterm1981.jpg 
+Entities []
+
+Sentence: I ' m referring to the ones newly introduced in Rogue One - I ca n ' t remember if they were given a specific name - I only remember them being referred to as ' Imperial Droids ' 
+Entities [('Rogue', 'B-location'), ('One', 'I-location'), ('Droids', 'I-creative-work')]
+
+Sentence: Religious persecution is hardly unique to communist countries . It ' s practically universal . 
+Entities []
+
+Sentence: How would you classify the documentary Transcendent Man ? 
+Entities []
+
+Sentence: Which protocol should I use for secure message transfers between two servers ? 
+Entities []
+
+Sentence: As you mention , it the fact that the first polariser ' converts ' unpolarised light to polarised light that does the majority of the perceived attenuation . For an interesting test ( for the OP who has the sheets . . ) , take the first two sheets and arrange them as a crossed polariser at maximum extinction , then insert a third polariser between them at a 45 degree angle . What happens and Why . . . ? 
+Entities []
+
+Sentence: @ notstoreboughtdirt - Probably not . " [ C ] onduct or motive unworthy or unbecoming a Senator " does n ' t cover anything related to the job they will be taking or specific facts or commentary on the nominee ' s qualifications . It only restricts discussing * things that were done * ( conduct ) or the * reasons for them * ( motive ) . So " You have no experience with _ _ _ _ _ _ _ " is valid , but " You took bribes from the _ _ _ _ _ industry " is not . 
+Entities []
+
+Sentence: Just wanted add , anyone notice that in the finale , French is dressed in the exact outfit that Homer was in from Cuba onwards ? 
+Entities [('Cuba', 'B-location')]
+
+Sentence: @ SmedleyDSlap , that sounds suspiciously similar to Universal Basic Income , but not as good . 
+Entities [('Universal', 'B-location')]
+
+Sentence: Science fiction novel about an assassin ' s guild that claims to be apolitical ( while doing the local tyrant ' s dirty work ) 
+Entities []
+
+Sentence: What exactly is Trump ' s economic policy , and is it consistent with his previous statements ? 
+Entities [('Trump', 'B-person')]
+
+Sentence: @ alexwlchan - You ' re right . I ' ve added it to my answer below . 
+Entities []
+
+Sentence: I vote to reopen . This does show effort and is about a physics concept . 
+Entities []
+
+Sentence: But keep in mind that trump expressed his hatred for snowden 
+Entities []
+
+Sentence: Identify The Day of the Doctor old shots 
+Entities []
+
+Sentence: $ SU ( 2 ) _ L $ Gauge theory and particle-antiparticle annihilation 
+Entities []
+
+Sentence: hmmnn . . . maybe . Sorry , I ' m not sure to be able to help you but maybe would be as simple as " give it to them if you trust them " . If not , ask why and why and why until they give you a reasonable reason or if not , do n ' t give to them the documents . 
+Entities []
+
+Sentence: how long is " a few years back " ? 
+Entities []
+
+Sentence: @ pela Ok Thanku . Will search for it . Learn it when it calls . Thanku 
+Entities []
+
+Sentence: @ Gallifreyan Give the people what they want . 
+Entities [('Gallifreyan', 'B-person')]
+
+Sentence: When did Clay become a phoner ? 
+Entities []
+
+Sentence: In the Travel Ban Executive order - What is the " Biometric Entry- Exit Tracking System ? " 
+Entities [('Biometric', 'B-location'), ('Entry-', 'I-location'), ('Exit', 'I-creative-work'), ('System', 'B-person')]
+
+Sentence: Why were Olive and Emma ' s powers changed in Miss Peregrine ' s Home for Peculiar Children ? 
+Entities [('Emma', 'B-person'), ('Miss', 'B-location'), ('Peregrine', 'I-location')]
+
+Sentence: This is a great example of a scale error . 
+Entities []
+
+Sentence: What explains the connection between the boat ' s name and Lee ' s daughter ? 
+Entities []
+
+Sentence: Why is n ' t a standard for encrypted but open WiFi developed ? 
+Entities []
+
+Sentence: Old novel of a hunter on a man-eating island ; he has to escape from another hunter who would try to kill him 
+Entities []
+
+Sentence: senate democrats eliminated the nuclear option when they had the majority a few years ago , over republican objections . the republicans warned that without the nuclear option , the democrats could lose a powerful means to stop the republican administration nominees if / when the table is turned . well , the democrats today would have loved to undo what they enthusiastically did a few year back . 
+Entities [('undo', 'B-location')]
+
+Sentence: It ' s best to consider * Voyager * as a whole as non-canon . 
+Entities []
+
+Sentence: Why was porygon in this episode of Pokémon 
+Entities []
+
+Sentence: About role of a minister in Parliament who is not a member of either house of Parliament . 
+Entities [('Parliament', 'B-location')]
+
+Sentence: Server key length in OpenSSH 
+Entities []
+
+Sentence: In my judgment , the goal is to determine the torque about the COM . This can then be set equal to the angular acceleration times the moment of inertial about the COM . We can get this torque about the COM using any other point as the axis of rotation by including the pseudo force through the COM and the moment it produces . 
+Entities []
+
+Sentence: And one might also ask . . . * what was his plan there , anyway ? ! * How on earth did he know where ' ll hit and who ' ll hurt ? 
+Entities []
+
+Sentence: what do we mean by ' regular person ' . Has n ' t Rick only ever explained what Dimension he is from to those individuals who are aware of multiple Dimensions ? 
+Entities [('Rick', 'B-person')]
+
+Sentence: Ok , thanks . What ' s the difference between ballistic galvanometer and classic galvanometer ? 
+Entities []
+
+Sentence: Hi Garvan and welcome to the Physics SE ! Please note that this is not a homework help site . Please see [ this Meta post on asking homework questions ] ( http://meta.physics.stackexchange.com/questions/714/how-do-i-ask-homework-questions-on-physics-stack-exchange ) and [ this Meta post for " check my work " problems ] ( http://meta.physics.stackexchange.com/questions/6093/should-any-check-my-work-questions-be-made-on-topic ) . 
+Entities [('Hi', 'B-person'), ('Meta', 'B-person'), ('Meta', 'B-person')]
+
+Sentence: Is it safe to download internet files over TOR 
+Entities []
+
+Sentence: Java Object encryption 
+Entities [('Java', 'B-person')]
+
+Sentence: I ' m not so sure that there is a significant anti- Eastern Europe vibe among the parties mentioned . Politicians like Orban are viewed as leaders acting in their national interest , which might not align with Western European interests but they are still respected for by other nationalists . 
+Entities []
+
+Sentence: Is it OK to pass credentials to the client to allow it to upload files to Amazon S 3 ? 
+Entities [('Amazon', 'B-location')]
+
+Sentence: This is no joke my friend ! 
+Entities []
+
+Sentence: the reason why I ask is because I want to be able to create a java . security . PublicKey object with the bytes and I do n ' t know how to do that . 
+Entities []
+
+Sentence: Can the president appoint him- or herself to the Supreme Court ? 
+Entities []
+
+Sentence: " A rather larger body "," varying at need "," was employed to ' beat the bounds ' "," and to see that Outsiders of any kind "," great or small "," did not make themselves a nuisance . " Not sure exactly how that needs to be interpreted . 
+Entities []
+
+Sentence: But is ryll mined on Kessel ? They mention that planet in ANH , and then never again . 
+Entities []
+
+Sentence: @ Xantec . You ' re right , it is . The Hogwarts staff member delivering the letter would be expected to mention Diagon Alley ( as Dumbledore did ) . Hagrid neglected to do this by just posting the letter through the letterbox . So really it ' s an oversight on the part of Hagrid ( although obviously in reality he did take Harry to DA in person ) . 
+Entities [('Xantec', 'B-person'), ('Diagon', 'B-location'), ('Alley', 'I-location'), ('Hagrid', 'B-person'), ('Hagrid', 'B-location')]
+
+Sentence: Good , I got it right then . Thanks for the answer ! 
+Entities []
+
+Sentence: Aliens , capable of interstellar travel . Im sure forging some documents are easy enough . 
+Entities [('Aliens', 'B-person')]
+
+Sentence: How do we know the number of photons in a decay ? 
+Entities []
+
+Sentence: What do you mean by " the average force normal to surface on the ball cancels ( due to assumption of uniformity in the field ) " ? 
+Entities []
+
+Sentence: Why do you think surface charge density should not change ? " By my knowledge " is not a reason . 
+Entities []
+
+Sentence: Hmm , but is n ' t the [ Vr?zinnige Part? ] ( https://nl.wikipedia.org/wiki/Vrijzinnige_Partij ) in parliament under the name [ Groep Klein ] ( https://www.tweedekamer.nl/kamerleden/fracties/klein ) ? Then why Nieuwe Wegen / Monasch but not Vr?zinnige Part? / Klein ? 
+Entities [('Nieuwe', 'B-person'), ('Wegen', 'I-person'), ('Klein', 'B-person')]
+
+Sentence: Why not ? I ' m just accepting observations . If A ' s angle is vertical and B ' s angle is 60 ° , then B gives opposite spins 3 / 4 of the time . That ' s real , I ca n ' t disagree with that . I ' m not saying the inequality is wrong , as I said in the first paragraph , I ' m saying the experiment ca n ' t reproduce it . Check what I ' ve answered to the other guy . 
+Entities []
+
+Sentence: How does the state variables $ ( P , V ) $ remain constant for a system with adiabatic wall 
+Entities []
+
+Sentence: [ This page ] ( http://sf-encyclopedia.com/entry/time_loop ) lists a 1932 short story , but I ' m certain the genre is much older than that . 
+Entities []
+
+Sentence: Why did n ' t the T- 1000 terminator shoot the eyes of the T- 800 ? 
+Entities []
+
+Sentence: You are right , the notation is pretty awful , I just tried to follow that of the book though . Now I rewrite It , also because I think I can handle the first part . 
+Entities []
+
+Sentence: Image of diverging lens 
+Entities []
+
+Sentence: @ Steeven added a sketch . 
+Entities [('Steeven', 'B-location')]
+
+Sentence: Physical chemistry problem 
+Entities []
+
+Sentence: This answer seems speculative , more of an opinion piece ; but the OP is requesting fact checking . Supposing at present the facts are obscured by mystery , there ' s no harm in leaving it unanswered . 
+Entities []
+
+Sentence: [ The version found in the CoS game ] ( http://i.imgur.com/LhhRTyG.jpg ) ( which has been [ confirmed to be written by Jo ] ( http://web.archive.org/web/20100310145702/ http://www.jkrowling.com/textonly/en/faq_view.cfm?id=96 ) ) did n ' t mention the Order . The version packaged with [ the Hasbro chocolate frog cards ] ( https://i.imgur.com/FHvtOW0.jpg ) ( not confirmed to be from Jo ) did . This is correctly explained in [ the Lexicon ' s updated article ] ( https://www.hp-lexicon.org/2016/12/29/famous-wizard-cards/ ) . 
+Entities [('Lexicon', 'B-person')]
+
+Sentence: What is the electric potential at the point charge , at the source of field ? 
+Entities []
+
+Sentence: Can u please elaborate or suggest any online resource where i could find more about this ? 
+Entities []
+
+Sentence: @ Carpetsmoker : That ' s specifically against Eastern Europeans working in Western Europe . 
+Entities [('Carpetsmoker', 'B-location')]
+
+Sentence: I gave a source ( the link ) . Here ' s another : https://www.merriam-webster.com/dictionary/alias 
+Entities []
+
+Sentence: How to ensure wildcard certificate private key security ? 
+Entities []
+
+Sentence: @ Brythan - I do n ' t think this is a duplicate , but I did n ' t do a good job of separating my question from that one . Hopefully now it ' s more clear that I am not asking for advantages ( although some advantages may be relevant ) . 
+Entities [('Brythan', 'B-person')]
+
+Sentence: @ Qmechanic yeah , I waffled over this , but ultimately chose Physics since it seemed to have more continuum-mechanics related questions . 
+Entities [('Qmechanic', 'B-person'), ('Physics', 'B-location')]
+
+Sentence: Is redirecting in htaccess providing enough security for sensitive pages ? 
+Entities []
+
+Sentence: @ CPHPython It works when your intrusion scanner is just grepping for ' assert ' . How many of them do that , I have no idea . 
+Entities []
+
+Sentence: Difference between Executive Orders and Presidential Memoranda 
+Entities []
+
+Sentence: Why was Thorin so interested in gold in the film , when he was really just after the Arkenstone ? 
+Entities [('Thorin', 'B-person')]
+
+Sentence: Possible anomaly in Cryptonomicon 
+Entities [('Cryptonomicon', 'B-location')]
+
+Sentence: @ Trilarion Negative . Torture has been illegal for a while . There was never an attempt to make torture legal . Rather , they categorized the actions they were taking as " not torture " but enhanced interrogation techniques . 
+Entities [('Torture', 'B-person')]
+
+Sentence: I ' m voting to close this question as off-topic because this is a legal question and belongs on [ Law . SE ] . 
+Entities []
+
+Sentence: This is a good explanation , thanks . 
+Entities []
+
+Sentence: Welcome to Physics Stack Exchange ! [ This related question ] ( http://physics.stackexchange.com/q/5326/56299 ) may help you . 
+Entities [('Physics', 'B-location'), ('Stack', 'I-location'), ('Exchange', 'I-location')]
+
+Sentence: [ Professor Monkey- For- A-Head ] ( http://earthwormjim.wikia.com/wiki/Professor_Monkey-For-A-Head ) from _ Earthworm Jim _ preceded him , but I do n ' t if that counts : - ) 
+Entities [('Jim', 'B-person')]
+
+Sentence: But , I guess we look at this emphasizing very different principles . I appreciate the time you put into answering my comments . Looks like the moderators think the exchange is too long , so may be we can return to this in the context of some thread . 
+Entities []
+
+Sentence: What ' s meant by this bill ( H . R . 720 ) text ? 
+Entities []
+
+Sentence: What was funny about Hanzo ' s hand in the film Predators ? 
+Entities []
+
+Sentence: I ' m uncomfortable with this kind of question . It ' s asking for direct help in cracking someone ' s wifi network . 
+Entities []
+
+Sentence: In the context of FIDO U 2 F , when is a new ephemeral key reused , or cached ? 
+Entities []
+
+Sentence: Were the Borg Always intended to be a Delta Quadrant power ? 
+Entities []
+
+Sentence: Amazon Echo / Dot on your network 
+Entities [('Amazon', 'B-person'), ('Echo', 'I-person')]
+
+Sentence: Percent difference does n ' t work for my data 
+Entities [('Percent', 'B-person')]
+
+Sentence: Which public key encryption method should I choose to sign ? 
+Entities []
+
+Sentence: Your responses are much appreciated . 
+Entities []
+
+Sentence: In " The Six Thatchers " , why does Watson blame Sherlock rather than himself ? 
+Entities [('Sherlock', 'B-person')]
+
+Sentence: Network administrator knowing all user passwords 
+Entities []
+
+Sentence: I recommend rewording your question to " What technical means are available to deal with state actors breaking TLS ? " . The question as it is currently formulated is better suited for law . SE . 
+Entities []
+
+Sentence: Are the TIE Fighter pilots clones ? 
+Entities []
+
+Sentence: Does energy of photon change due to some external magnetic field ? 
+Entities [('photon', 'B-person')]
+
+Sentence: The form " Q " takes is cosmetic as implied by the episode , [ Déjà Q ] ( https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Q ) in which another " Q " appears and remarks at the bipedal nature of their circumstance . 
+Entities []
+
+Sentence: Why is visa-free travel such a big deal in politics ? 
+Entities []
+
+Sentence: buddy do n ' t say xmen 3 as disaster I like original trilogy . 
+Entities []
+
+Sentence: Do countries frame their contributions in climate change negotations in reference to others ? 
+Entities []
+
+Sentence: I feel like other animals could kick a field goal given proper training . Esp . since the FG distance wasnt very far for Snowflake 
+Entities [('FG', 'B-location')]
+
+Sentence: I think this answer is wrong — I certainly took it to be meant literally . The last line in your answer is key , but it ’ s entirely possible that the worth of market value of small amounts of mithril is so ridiculously high that , scaled to a whole armour made of mithril , its value would indeed dwarf an unimportant economy such as the Shire ’ s , without requiring an exact calculation . This isn ’ t * that * unrealistic for an item ’ s value ( as a gift , it kind of is though ) . 
+Entities []
+
+Sentence: Do politicians ever admit they made a bad decision ? 
+Entities []
+
+Sentence: I still think that with more details from your actual proof , you might have a better chance of getting something which is useful for you . 
+Entities []
+
+Sentence: Running a local server inside a virtual machine disconnected from the Internet - is this secure ? 
+Entities []
+
+Sentence: What non- Star Trek movie used the TOS font for the end credits ? 
+Entities []
+
+Sentence: Book narrated by the devil 
+Entities []
+
+Sentence: Does someone have it out for me , or is this router " features " ? 
+Entities []
+
+Sentence: Store SQL database credentials in a webserver 
+Entities []
+
+Sentence: That ' s not . p 12 format . Just . PEM format with the ( wrong ) . p 12 file name extension . Do you really , really need p 12 format ? ( If what you did works , then you don ' t , since it never was P 12 . ) 
+Entities []
+
+Sentence: [ Related answer ] ( http://movies.stackexchange.com/a/33905/1190 ) for you bonus sidenote with word of god . 
+Entities []
+
+Sentence: Anything else you can remember about th ' s book ? [ This ] ( http://meta.scifi.stackexchange.com/questions/9335/how-to-ask-a-good-story-id-question ) could help . 
+Entities []
+
+Sentence: What did Tarzan say to Cheeta when Cheeta did a good job ? 
+Entities []
+
+Sentence: Why is there a disclaimer about not accepting money from tobacco companies at the end of movies ? 
+Entities []
+
+Sentence: How does the President of the United States get a budget authorised ? 
+Entities [('United', 'B-location'), ('States', 'I-location')]
+
+Sentence: When did the practice of having a joke with no music at the end of a trailer begin ? 
+Entities []
+
+Sentence: If at some point President Trump was impeached , what would it take to actually be removed ? 
+Entities [('point', 'B-person'), ('President', 'B-person'), ('Trump', 'I-person')]
+
+Sentence: What security considerations are there when developing a random password generator ? 
+Entities []
+
+Sentence: A little update regarding this : I have not been called a single time by any kind of advertising . 
+Entities []
+
+Sentence: Comment deleted and made into an answer . 
+Entities []
+
+Sentence: All right , seems we will remain with different opinions on this , as to me , TOS * Metamorphosis * appears to be the one-off episode . 
+Entities []
+
+Sentence: It seems to me this answer confirms what the restrictions on a 501 ( c ) 3 are w . r . t a candidate ; I think the more relevant issue here is whether the filing makes Trump a " candidate " for purposes of said restrictions , especially in light of the first phrase in the filing , " While this does not constitute a formal announcement of my candidacy for the 2020 election . " 
+Entities []
+
+Sentence: Animated movie about kid who lost his parents in a car accident with a deer ( got reunited via time travel ) 
+Entities []
+
+Sentence: Access Control Primitives 
+Entities []
+
+Sentence: unfortunately not , this is also not a series like I described . Arghh its bugging me haha I hope I find it 
+Entities []
+
+Sentence: Duplicate of http://physics.stackexchange.com/q/43293/176 ? 
+Entities []
+
+Sentence: Why is a sleeping bag so cold when you first get in ? 
+Entities []
+
+Sentence: Which Sci- Fi work introduced the idea of " Touchscreen used by fingers " ? 
+Entities []
+
+Sentence: Thanks . A better question : did you recognise her as fishing before , or after , finding the full-sized photo ? 
+Entities []
+
+Sentence: Commutation Relation between the Dirac Hamiltonian and Helicity operator 
+Entities [('Dirac', 'B-person'), ('Hamiltonian', 'I-person')]
+
+Sentence: What about the other AGRA drives ? 
+Entities []
+
+Sentence: Does that imply presidents sometimes push agendas that are n ' t meaningful to them ? 
+Entities []
+
+Sentence: Interesting question , and I agree with you that it deserves a separate question . Please do , I will reply in this separate post . 
+Entities []
+
+Sentence: Why do so many kids in Digimon wear gloves ? 
+Entities [('Digimon', 'B-location')]
+
+Sentence: Firstly R & R signifies Rest and Recreation . So the recreation part takes care of the radio programs part of the question . Secondly , as you can see my last quoted question , the user asked why radio programs were being run at Vietnam and not why the army has its own program . Please correct me if I understood the question wrong . 
+Entities [('Vietnam', 'B-person')]
+
+Sentence: How did my professor sniff my Gmail password ? 
+Entities []
+
+Sentence: Ghost from their kindergarden will follow them in their dreams 
+Entities []
+
+Sentence: Do we know the timeline on the Sci- Fi names in the question ? I would guess that early ones were doctors , and later ones could have just as easily been inspired by the early ones as by the actual doctor . 
+Entities []
+
+Sentence: I have worked with multiple frameworks , but still ca n ' t see what your question is . . . 
+Entities []
+
+Sentence: @ Paul leave the actors enough time in the snow and you wo n ' t have to pay them anymore ! : - D 
+Entities [('Paul', 'B-person')]
+
+Sentence: How to protect an offline proprietary software from being stolen 
+Entities []
+
+Sentence: @ poisson I see . That type of symmetry breaking is not what you asked about in your question , which is why my answer discusses a different type of symmetry breaking . But your comment here certainly implies a fair additional question . The answer is complicated enough that I wo n ' t have room for it in this comment , so ' ll add another section to my answer headed " Buckling "," Crumbling "," and Toppling " . But . . . 
+Entities []
+
+Sentence: They also used ' magic ' to accomplish their works . Minas Tirith ( The First Age one ) had a spell bounding stone to stone , and it collapsed after Lúthien had broken it . 
+Entities []
+
+Sentence: Visualizing the $ H $ field 
+Entities []
+
+Sentence: How steady is your hand ? But seriously , this question is entirely wrong-headed if you are concerned about safety . If anything is going to get close to an electrical contact , it must be de-powered . No exceptions ! 
+Entities []
+
+Sentence: " * It ' s all down to Neville . He really gets this room . You ' ve got to ask it for exactly what you need - like "," ' I do n ' t want any Carrow supporters to be able to get in ' - and ' ll do it for you ! You ' ve just got to make sure you close the loopholes ! Neville ' s the man ! * " - Seamus 
+Entities [('Neville', 'B-location'), ('Carrow', 'B-location')]
+
+Sentence: Why is the Labour Party in such significant decline ? 
+Entities []
+
+Sentence: The spin-orbit interaction for a classical magnetic dipole moving in an electric field 
+Entities []
+
+Sentence: Because light sabers glow in the dark . Search TV Tropes for " Rule of Cool . " 
+Entities []
+
+Sentence: What exactly did the federal judge do to Trump ' s executive order ? 
+Entities [('Trump', 'B-person')]
+
+Sentence: I ' ve edited the question with some links and rephrasing to try to clarify ; feel free to revert if you disagree . 
+Entities []
+
+Sentence: Agreed . Nothing I ' ve read has referenced a prior similar event . 
+Entities []
+
+Sentence: We differ politically but this is a great and concise answer . + 1 
+Entities []
+
+Sentence: Why do fusion cross sections drop after a certain temperature ? 
+Entities []
+
+Sentence: could you try ' / / \ nalert ( 1 ) ; window . history . back ( ) ? . if that does n ' t work , it might be a 500 error with a redirect to root as default behaviour 
+Entities []
+
+Sentence: Spooky behaviour with Authy 
+Entities []
+
+Sentence: Thank you for the quick reply . Just wanted to confirm one more thing . How do you mitigate this issue ? Is it done by mandating auth for all the mail sending actions ? 
+Entities []
+
+Sentence: Positive charge has high potential why ? 
+Entities []
+
+Sentence: Why did n ' t Snape just kill Voldemort to buy more time while the latter was recuperating as a Horcrux ? 
+Entities []
+
+Sentence: I hate your answer , but it is correct . I , naively , had a different reaction upon reading that part . Namely : " I ca n ' t wait to see that in film " . 
+Entities []
+
+Sentence: @ Snowman " They mostly come at night . Mostly . " Excellent reference ! 
+Entities []
+
+Sentence: Suggestions on how I would detect that , or rather ; or whether there would be a Windows Event log confirming this ? ? 
+Entities []
+
+Sentence: Where was the planet inhabited by " the Giants " located relative to Earth ? 
+Entities [('Giants', 'B-location'), ('Earth', 'B-location')]
+
+Sentence: Why is the perpendicular part a scalar in the electrodynamic boundary conditions at surfaces ? 
+Entities []
+
+Sentence: Animated TV series with King Arthur / Sword in Stone theme ; ' Excalibur ' replaced by AI robot scepter 
+Entities [('Arthur', 'I-location'), ('Stone', 'B-location')]
+
+Sentence: Is the story plotline or arc for the Star Wars series going to be overhauled with Carrie Fisher ' s death ? 
+Entities [('Carrie', 'B-person')]
+
+Sentence: What 1980 ' s kids book series about boy learning magic spells ? 
+Entities []
+
+Sentence: Why was n ' t the line of succession for cabinet members followed after they died ? 
+Entities []
+
+Sentence: can a nation encompassing a diaspora with no geographical delineation also be or have its own state 
+Entities []
+
+Sentence: Hm , pest should not be a problem for witchers , as their mutation makes them immune to diseases . However , there is another reason to avoid cities or even villages : Most people do n ' t like witchers and highly distrust them ( yeah , they might be useful to get rid of mosters , but they are somehow monsters themselves and may rob your children if you ' re not careful ) . So it is safer for witchers to stay among themselves , far away from other people . 
+Entities []
+
+Sentence: What is the meaning if all IoT hacked by Mirai all over the world identify themselves on my server since 15 days in the rhythm of 180 unique IoT / h ? 
+Entities []
+
+Sentence: @ MPS Yep , that ' s the one ( for Ubuntu ) . 
+Entities []
+
+Sentence: Usually clouds move across the sky , sometimes very fast , sometimes slow . A stationary cloud is not common . 
+Entities []
+
+Sentence: Do lekku grow with age ? 
+Entities []
+
+Sentence: Is the soft iron core inside a solenoid moved ? 
+Entities []
+
+Sentence: < more prayers or religious speeches happened , and one of them was by a Rabbi . this goes to the point I made below - there are many different flavors of " secular " , just as there are many different flavors of " atheist " . 
+Entities [('Rabbi', 'B-person')]
+
+Sentence: How did the media know the method Batman used to catch the Joker ? 
+Entities [('Joker', 'B-person')]
+
+Sentence: Cartoon in which Donald Duck tries to stop another duck from committing suicide 
+Entities [('Donald', 'B-person')]
+
+Sentence: Standardized Data Formats for specifying bandstructure and Fermi surfaces 
+Entities [('Fermi', 'B-person')]
+
+Sentence: We do . That ' s how dams work . 
+Entities []
+
+Sentence: Is password cracking noisy ? 
+Entities []
+
+Sentence: The short answer is * No , adding effort to solve the problem wo n ' t help reopen the question * . See [ this Meta post on asking homework questions ] ( http://meta.physics.stackexchange.com/q/714/ ) and [ this Meta post for " check my work " problems ] ( http://meta.physics.stackexchange.com/q/6093/ ) . 
+Entities [('Meta', 'B-person'), ('Meta', 'B-person')]
+
+Sentence: If someone transfers money from a bank account to a prepaid master card , can he trace the master card back 
+Entities []
+
+Sentence: Hmm ? Please flesh out your question * before * posting it - that ' s also in your own interest , since people will vote on the version they currently see , and will not necessarily return once you have finalized it to correct their vote . 
+Entities []
+
+Sentence: As soon as I saw your answer I jumped out of bed to look for this movie . I could n ' t possibly thank you enough , you have no idea of the service you have done me , I ' ve been looking for this movie ever since it came out , and you gave me the answer in less than 2 hours . Best of luck to you , glad to be a member of this community . 
+Entities []
+
+Sentence: @ skooba your are glossing over all of the complexities . Because something is easy for you does not mean it is for everyone else . 
+Entities []
+
+Sentence: What ' s different between two formulas in my problem . Which one shall I use . ? 
+Entities []
+
+Sentence: @ theguest It ' s an exchange specifically for science fiction . I was trying to be helpful . 
+Entities []
+
+Sentence: ' ll certainly check it out . But superior ? As a native kiwi that will be my judgement to make : - P 
+Entities []
+
+Sentence: probably not the original reference : https://www.thrillist.com/entertainment/nation/arrival-chinese-line-ending 
+Entities []
+
+Sentence: If it is called Mandalorian , I would think that the Mandalorians designed it . 
+Entities []
+
+Sentence: I do n ' t know what is the area element i must use in spherical or cylindrical ones . 
+Entities []
+
+Sentence: Thanks a lot , but can you give me a link for the first site , GhostSec ' s pentest labs ? 
+Entities []
+
+Sentence: Please provide as much information as possible . When and where you watched it , language , color or black & white etc 
+Entities []
+
+Sentence: On a molecular level , what is the difference between a liquid and a powder ? 
+Entities []
+
+Sentence: The Matrix : How did the Nebuchadnezzar know where to find Neo in the real world ? 
+Entities [('The', 'B-person'), ('Matrix', 'I-person')]
+
+Sentence: and I ' d disagree w / @ Edlothiad ' s response - it is absolutely based more on myth than sci-fi concepts - but , ultimately , that does n ' t matter since Valorum is correct : ) 
+Entities [('Edlothiad', 'B-person'), ('Valorum', 'B-location')]
+
+Sentence: important addition — if anyone touches your unencrypted installation , consider it trojaned — wipe drive completely and install fresh OS afterwards 
+Entities []
+
+Sentence: Distribution of keys for a python messaging application 
+Entities []
+
+Sentence: I ' ve always thought that this is one of the few occasions where you need to read the book to fully understand the film . . though you also need to see the film to fully understand the book . You ' ve got to viddy to kopat , that ' s my soviet , my old droogs ; ) [ You also need one finger in the glossary , right the way through ] 
+Entities []
+
+Sentence: Is mankind still doomed at the end of " Oblivion " ? 
+Entities []
+
+Sentence: And what is not useful with this answer ? Downvotes with no explanation are not useful to anyone . 
+Entities []
+
+Sentence: What does the ending scene of The Sopranos mean ? 
+Entities []
+
+Sentence: @ defalt I do n ' t think OP was asking about the VPN server ' s port ( which I addressed , too ) . 
+Entities [('VPN', 'B-person')]
+
+Sentence: Understood . I ' m looking more at knowledge management and consumption for people . C 
+Entities []
+
+Sentence: How replaceable are " career " bureaucrats by new administrations ? 
+Entities []
+
+Sentence: Ah , good catch . The last one looks suspiciously familiar , too . 
+Entities []
+
+Sentence: Is it secure to login to your online banking through a third party ? 
+Entities []
+
+Sentence: Hi , welcome to the site . You say the Hulk saw ' something messed up ' - do you have any quotes or information from the film that would help explain what is was he actually saw ? 
+Entities []
+
+Sentence: I wish they ' d spend research efforts on how to get more voters to act rationally . : ) 
+Entities []
+
+Sentence: Is there any evolutionary advantage to the position of the Vulcan heart ? 
+Entities []
+
+Sentence: What was the Donnager ' s escort doing during the battle ? 
+Entities [('Donnager', 'B-person')]
+
+Sentence: What does this mean " upending standard committee rules " ? 
+Entities []
+
+Sentence: How much information is stored in a genome and how much in the distribution of genomes in a species ? 
+Entities []
+
+Sentence: What ' s the most accurate account of the current President ' s monetary debts ? 
+Entities [('President', 'B-person')]
+
+Sentence: How did the doctor know the cause of death just by putting his ear on the dead body ? 
+Entities []
+
+Sentence: @ Valorum : Do you want to grab any or all of my memory erasure bit ? 
+Entities [('Valorum', 'B-location')]
+
+Sentence: Why do all Potterwatch contributors ' codenames start with " R " ? 
+Entities []
+
+Sentence: Buffer overflow attack 
+Entities []
+
+Sentence: Why was Hogwarts so adamant about having Harry go there ? 
+Entities []
+
+Sentence: If you do n ' t have a specific question then why ' re you posting here ? What do you expect the community to help you with ? 
+Entities []
+
+Sentence: Well this should be some coefficient or a number that I could use to solve the second part of my " problem " . I have added the volume figure . 
+Entities []
+
+Sentence: The blue shifting could even get to the point that the microwave background is visible , I really do n ' t know . I think as far as the more extremely warped paths of light coming up from near the black hole , you might look at the black hole from interstellar . They modeled all of the light really well . However , I think you have some creative leeway here given just how complex the paths of rays near a black hole can be . Best of luck 
+Entities []
+
+Sentence: A futuristic book I am sure was titled " Grandfather Bank " 
+Entities []
+
+Sentence: Please use mathjax to format mathematical expressions . To learn more about mathjax , please read [ MathJax basic tutorial and quick reference ] ( http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference ) . 
+Entities []
+
+Sentence: You do know what Borking means , right ? 
+Entities []
+
+Sentence: I believe in that world I ' d say " I ' m Negan "," " wander a while and then try to kill him . But definitely not after he caught a bullet with a bat , after that I ' d probably decide not to mess with him . 
+Entities [('Negan', 'B-person')]
+
+Sentence: Define democracy . The majority rules , but are " representatives " OK to the very notion of democracy ? If so , are the types operating today - legislators , governors etc OK ? Also , should we include full transparency of such a state in its definition ? 
+Entities []
+
+Sentence: Why is $ C _ V $ used in adiabatic work by an ideal gas ? 
+Entities []
+
+Sentence: Great ! Please also mark my answer as the correct answer , there is an option for that . Thanks . 
+Entities []
+
+Sentence: Ca n ' t upload payload to my apache 2 server . Pentesting exercise 
+Entities []
+
+Sentence: The affair Season 3 Episode 10 Noah half - French translation 
+Entities []
+
+Sentence: E @ user 568458 Unfortunately , my impression of him on the show was similar to the second , less masculine Daario ( i . e . bland as opposed to the hyper-masculine dandy in the books . ) Euron is incredibly spooky , dark and cruel , possessed of strange magic and relics . His portrayal on the show as is fairly bewildering . 
+Entities [('Daario', 'B-person')]
+
+Sentence: Could a President withdraw nominated Supreme Court judge before confirmation by the senate ? 
+Entities [('President', 'B-person')]
+
+Sentence: dmckee , I think you should post your comment as an answer so I can mark it accordingly . What you mentioned makes sense . 
+Entities []
+
+Sentence: In the RotS scene where Obi- Wan and Anakin are stupid enough to walk backwards into the elevator , the droids could have just shot them . 
+Entities []
+
+Sentence: Turkish military presence in other countries soil 
+Entities []
+
+Sentence: Avoided Crossing in QM 
+Entities []
+
+Sentence: I am unable to get rid of extra charecters with comments in SQL injection payload 
+Entities []
+
+Sentence: Why do n ' t cities plant more fruit trees ? 
+Entities []
+
+Sentence: Help identify a collection of short stories 
+Entities []
+
+Sentence: @ Bebs That ' s possible too . 
+Entities []
+
+Sentence: Why is imposing vaccination / immunization so hard to achieve ? 
+Entities []
+
+Sentence: Few Questions About Tor Hidden Services 
+Entities []
+
+Sentence: It cannot be migrated with an open bounty , but yes , that would have made sense 
+Entities []
+
+Sentence: @ cde should you want to defend your downvote , here http://meta.movies.stackexchange.com/questions/2666/are-spoilers-a-reason-to-get-downvotes 
+Entities []
+
+Sentence: So , this is a picture from the actual show ? . . . Er , did n ' t it say on the page where it was from ? 
+Entities []
+
+Sentence: Looking for a movie where there is a Powerful Board Game played by two brothers ? 
+Entities [('Board', 'B-person')]
+
+Sentence: my concern is about securing the content of the output of the api . . request to read the question and the details again 
+Entities []
+
+Sentence: Please keep it classy 
+Entities []
+
+Sentence: I ' m voting to close this question as off-topic because it is better suited for worldbuilding . se 
+Entities []
+
+Sentence: is it because , . As viscosity is zero no viscous force will be there . And viscous force is the reason for pressure drop in tube . 
+Entities []
+
+Sentence: Who is driving Thomas Jane ' s hair and wardrobe on the Expanse ? 
+Entities [('Thomas', 'B-person'), ('Jane', 'I-person'), ('Expanse', 'B-person')]
+
+Sentence: I ' m afraid this is a deliberate stylistic choice . Also seen in Collide ( 2016 ) and others . Hopefully it ' s one that will go away . 
+Entities []
+
+Sentence: What is the momentum between a light and heavy object in motion when the force applied is equal ? 
+Entities []
+
+Sentence: Can the vice president be fired ? 
+Entities []
+
+Sentence: @ phoog Parliament can do anything it likes . It is sometimes said , by way of emphasis that " it can make women men "," and men women "," if it wants " . The only thing it ca n ' t do is to pass legislation which binds successor parliament in any way . 
+Entities [('phoog', 'B-location')]
+
+Sentence: What are the state-of-the art techniques for crowd size estimations ? 
+Entities []
+
+Sentence: " Large " gauge transformation does n ' t act as do-nothing transformation in QFT : looking for classical analog 
+Entities [('Large', 'B-person'), ('QFT', 'B-location')]
+
+Sentence: Why did n ' t the Beast kill Julia ? 
+Entities [('Julia', 'B-person')]
+
+Sentence: How to derive the equation of motion of Born- Infeld ? 
+Entities [('Born-', 'B-location'), ('Infeld', 'I-location')]
+
+Sentence: What are the advantages of the French two-round voting system against a one round alternative ? 
+Entities []
+
+Sentence: Asymmetry definitions electric $ \ chi _ e $ and magnetic susceptibility $ \ chi _ m $ 
+Entities []
+
+Sentence: How many people are the three billion watching Zaphod Beeblebrox ? 
+Entities [('Zaphod', 'B-person')]
+
+Sentence: Does the " mole " like device access Isabella ' s facial expressions in Her ( 2013 ) ? 
+Entities []
+
+Sentence: I think that at begining they were 4 – 5 . And in that maze was one guy ( killer ) . At the end of the movie left only a girl and guy with glasses . That killer kiddnaps that girl , cuffs her on the table and he tries to kill . That guy with glasses saves her and they finds way out . 
+Entities []
+
+Sentence: How did Mon- El know English ? 
+Entities []
+
+Sentence: Is n ' t the network called Movies & TV ? ( It clearly is TV , is n ' t it ? And why would there be an " academy-award " tag , if it ' s off topic ? 
+Entities []
+
+Sentence: Who legislates military law ? 
+Entities []
+
+Sentence: What was the tallest structure built in Middle-earth ? 
+Entities [('Middle', 'B-location')]
+
+Sentence: There you go , answered in the OP . 
+Entities []
+
+Sentence: @ Demi : I was saying that because I was needing python . 
+Entities [('Demi', 'B-person')]
+
+Sentence: I used it in NL for 8 years or so and never had any problems . . . 
+Entities []
+
+Sentence: @ Gordon Not all , for example gluons and photons do n ' t interact with the Higgs . 
+Entities [('Gordon', 'B-location')]
+
+Sentence: An old TV show with a man driving around in his cadillac solving problems 
+Entities []
+
+Sentence: Not sure about this answer . For me the chapter 21 quote included herein conflicts with the " probably using a Demiguise " supposition ( which is bolded at the top ) . “ Ah , but the Third Hallow is a true Cloak of Invisibility , Miss Granger ! I mean to say , it is not . . . woven from Demiguise hair " . I think your second last paragraph gets to the real crux of the matter . 
+Entities [('Hallow', 'B-location'), ('Cloak', 'B-person'), ('Invisibility', 'B-location')]
+
+Sentence: SSO against many identity providers 
+Entities []
+
+Sentence: during ssh handshaking server introduce itself - does it improve security to change self presentation ? 
+Entities []
+
+Sentence: Are there other Mjölnirs ? 
+Entities []
+
+Sentence: In order to calculate anything "," more input data is required ; such as : " From where do you hit the ball and at what angle ? Do you want to take into account effects due to the spin of the ball ? Should friction be included ? " Generally ( if you do n ' t put any restrictions on how you can hit it ) there is no reason that you could not make the ball return ( unless you ' d have to hit it so hard that the ball breaks ( which I doubt would be the case ) . 
+Entities [('Generally', 'B-person')]
+
+Sentence: Why did Clinton wear in all red for an Award ? 
+Entities [('Clinton', 'B-person')]
+
+Sentence: Would the downvoter care to comment ? 
+Entities []
+
+Sentence: Is Trump tweeting himself on realDonaldTrump ? 
+Entities [('Trump', 'B-person')]
+
+Sentence: @ DonatelloSwansino That ' s good information . You should add it as an answer 
+Entities []
+
+Sentence: Tango - In the section about the fictional enterprise and the fictional workings of the Star Trek universe there is a section of biographies of the Star Trek characters "," including Kirk . My copy of the Making of Star Trek 1968 edition is packed away and unreachable as is any copy of the writers guide I may own . 
+Entities [('Kirk', 'B-person')]
+
+Sentence: What encryption type does Windows Hello use for fingerprint information on Windows 10 latest build ? 
+Entities []
+
+Sentence: Despite never having seen the movie "," im guessing its because they were the four main characters and deserved to be apart from the secondary characters 
+Entities []
+
+Sentence: Are the Martians saying " Ut " or " Ack " ? 
+Entities [('Ack', 'B-person')]
+
+Sentence: I actually think that " Did the Democrats suffer consequences for invoking it ? " is a better question than the one asked . I think if you ask that . Then after it gets answered youcould ask each one of your other questions assuming you still dont understand how it works . 
+Entities []
+
+Sentence: In the article linked by Lelouch in his answer below "," there is a key point " The result applies to isolated mechanical systems subject to some constraints , e . g . , all particles must be bound to a finite volume " . We do not know if the Universe complies to such an assumption . 
+Entities [('Universe', 'B-person')]
+
+Sentence: How much official communication was there between the Senate and the Jedi Council ? 
+Entities []
+
+Sentence: What old teen movie is this ? 
+Entities []
+
+Sentence: Black Swan is nowhere near being a horror movie . Some psycho elements - yes . 
+Entities [('Black', 'B-group'), ('Swan', 'I-group')]
+
+Sentence: Are we currently seeing another ideological realignment happening in today ' s unstable political climate ? 
+Entities []
+
+Sentence: Are the Legality of Votes Cast by Non- Citizens Checked After They Have Been Cast ? 
+Entities [('Cast', 'I-location'), ('Non-', 'B-person'), ('Citizens', 'I-person')]
+
+Sentence: I Periodically shave my head . I can confirm it does hold fuzzy hats well . Actually "," keeping your head completely smooth is a lot of work "," you have to shave with a real razor ( not an electric one ) daily . 
+Entities []
+
+Sentence: Good idea "," especially for someone who needs this routinely for professional reasons it might be worth buying cheap hardware . I ' d like to add two things : 1 ) " disable wifi physically " is often nigh impossible . I ' d suggest to use a cable "," so you never need to connect to a wifi network ( then the device never contains its password ) "," or perhaps even remove the wifi chip ( often fairly easy ) . And 2 ) I ' d overwrite the stick or sd card after use "," not terminate processes or reboot . 
+Entities []
+
+Sentence: Does using Oauth behind firewall / closed ports requires proxy 
+Entities [('Does', 'B-person'), ('Oauth', 'B-person')]
+
+Sentence: How can a country ( UN or non- UN member ) become a member of World Bank ? 
+Entities [('Bank', 'I-location')]
+
+Sentence: Javier . . So the net force remains but now involves my hands as well . That makes sense ! oo 
+Entities []
+
+Sentence: What building in the final scene of Assassins Creed ? ( spoiler ) 
+Entities []
+
+Sentence: Probably its the second time coming back from the dead "," not just being in the world . 
+Entities []
+
+Sentence: @ CandiedOrange I see a difference here . While exploding bombs or freezing molecules always follow certain chemical and physical laws "," human history has witnessed events where perceived equilibrium are broken time after time . Just look at our population and think about what the equilibrium would have been if we were still living in wood and stone age . Or better yet "," see how Malthusianism checks out . 
+Entities [('CandiedOrange', 'B-location')]
+
+Sentence: Difference between " C- violation without CP-violation " and " C- violation with CP - violation " 
+Entities []
+
+Sentence: Comments are not for extended discussion ; this conversation has been [ moved to chat ] ( http://chat.stackexchange.com/rooms/52466/discussion-on-question-by-ankit-why-is-christian-bale-not-in-the-upcoming-movie ) . 
+Entities []
+
+Sentence: short story about seeding a planet with humans 
+Entities []
+
+Sentence: What is the difference between Quasi static and Dynamic simulation ? 
+Entities []
+
+Sentence: How does one leave a pensieve ? 
+Entities []
+
+Sentence: Many actors or actresses with aversion to showing skin would n ' t approve of body doubles . The general public will still think they did it themselves . 
+Entities []
+
+Sentence: @ XiongChiamiov While I can not formally prove it "," I find it very hard to believe that feeding SHA 1 with unpredictable input would produce predictable output . 
+Entities []
+
+Sentence: What is the significance of the torn off button scene in The Next Three Days ? 
+Entities []
+
+Sentence: Higgs boson and electroweak gauge boson transformations under CP 
+Entities []
+
+Sentence: Relative world carbon footprints by nation ? 
+Entities []
+
+Sentence: After seeing this [ article ] ( https://arxiv.org/abs/0704.3116 ) "," I am convinced of the method you give in your answer . However "," I have n ' t still been able to derive the VEV shown in the question . Could you give details ? Also "," I ' m not sure why the vacuum ket $ \ vert 0 \ rangle $ maps to 1 and why $ \ vert n \ rangle $ maps to $ \ sqrt { n ! } \ xi ^ n $ . 
+Entities []
+
+Sentence: What is the difference between Yautja and Super Yautja in Predators ? 
+Entities [('Yautja', 'B-person'), ('Super', 'B-location'), ('Yautja', 'I-group'), ('Predators', 'B-location')]
+
+Sentence: What Star Trek TOS characters have been confirmed to be appearing in Discovery ? 
+Entities [('Discovery', 'B-location')]
+
+Sentence: There ' s nothing in law that says a politician ca n ' t switch parties "," but the few times it ' s happened in history "," the politician has been blacklisted by their previous party "," and then not exactly welcomed by the new party because they are a turncoat "," and could do it again . It is akin to political suicide . 
+Entities []
+
+Sentence: Nopes "," full story was presented in parts "," I think 3 parts . 
+Entities [('Nopes', 'B-person')]
+
+Sentence: magnetic potential vs . solid angle 
+Entities []
+
+Sentence: Why is it necessary to minimize redundancy in the ciphertext of a stream cipher ? 
+Entities []
+
+Sentence: Identify this post apocalyptic movie with rival cannibal car gangs 
+Entities []
+
+Sentence: Are Hogwarts students allowed to go to other houses ? 
+Entities []
+
+Sentence: You can add torsion if you want 
+Entities []
+
+Sentence: I think $ \ delta \ omega $ cannot move freely to the right . It ' s a clifford algebra vulued in this case . 
+Entities []
+
+Sentence: ID movie : Highschool boy is bullied into a coma 
+Entities []
+
+Sentence: Oh my god "," I did n ' t know the differential was a thing . . . That helps so much "," thanks ! . And @ Fedxa "," if that ' s so "," then I ' m really confused . I just put a screenshot of the example where I ' m getting that conclusion from . 
+Entities []
+
+Sentence: Does Rogue One create a plot hole in Return of the Jedi re Hyperspace Radio ? 
+Entities [('Does', 'B-person'), ('Rogue', 'I-person')]
+
+Sentence: Books are never peer reviewed . I can add some journal references "," but they will almost definitely be behind a paywall . I would call it nonpartisan in the sense that is n ' t an attempt to support any party or candidates "," but any analysis of parties is going to vindicate someone . 
+Entities []
+
+Sentence: @ itpastorn yes "," but I think you can also take the ones that are described as evidence that there generally * are * holidays "," probably many different ones in many different communities "," and we just do n ' t get to hear about them . 
+Entities []
+
+Sentence: @ Wildcard if hope you ' ve done the over 8 years it ' s required in most of the western world ' s universities to complete a psycology or psychiatry Bsc + MsC + MIR / PIR Degree for your facts "," rather than a internet blog . 
+Entities [('Wildcard', 'B-person'), ('Bsc', 'B-location')]
+
+Sentence: Schroeder ' s Minkowski Space Integral - Concerns about Wick Rotations 
+Entities [('Concerns', 'B-person')]
+
+Sentence: @ Gallifreyan "," good question . 
+Entities [('Gallifreyan', 'B-person')]
+
+Sentence: Similar to http://security.stackexchange.com/questions/4369/why-is-https-not-the-default-protocolalsocompare http://webmasters.stackexchange.com/questions/1823/https-for-entire-sitevs http://webmasters.stackexchange.com/questions/3148/does-ssl-really-matter-for-most-websites 
+Entities []
+
+Sentence: @ Krumia : Precisely . This answer is flatly wrong . Resolution power of an optical detector ( eyeball or otherwise ) has nothing to do with the intensity of incident photons ( of a given frequency ) that is needed for it to detect a difference from no light . 
+Entities [('Krumia', 'B-person')]
+
+Sentence: Short story published in Asimov ' s in the 90 ' s 
+Entities [('Asimov', 'B-location')]
+
+Sentence: Alternatives to bruteforce KeePass Cracker 
+Entities [('bruteforce', 'B-person')]
+
+Sentence: @ Panda Thanks for tagging that question . My question ' s title was an homage to it . I just was n ' t sure if I should \ how to draw attention to it as well . 
+Entities []
+
+Sentence: Need some help understanding Peltier Plates 
+Entities [('Peltier', 'B-person'), ('Plates', 'I-person')]
+
+Sentence: Your name suggests you may be Italian . If you can edit your question to include an Italian version "," I will happily translate it if nobody else gets to it before I do . The current English version of the question is almost impossible to make sense of . 
+Entities []
+
+Sentence: Jedi ca n ' t do that "," because PHP is of the Dark Side . 
+Entities []
+
+Sentence: @ jpmc 26 It is difficult to objectively say that the ability for the military to accomplish its current mission is diminished . We are only at the point where maintenance has been deferred "," flight hours for training have been reduced "," and underways for Naval ships have been closely controlled for fuel costs . The consequence of the Military being forced to choose operational tempo over maintenance has not yet been appreciably felt "," but the bill can be seen on the horizon with a weather eye . 
+Entities [('jpmc', 'B-person')]
+
+Sentence: Gedankenexperiment in thermodynamics : what is wrong ? 
+Entities []
+
+Sentence: @ Lakebum Please mark this answer as the correct one . 
+Entities [('Lakebum', 'B-person')]
+
+Sentence: This is a good answer "," but it would be improved by emphasizing the administration ’ s reaction to the controversy—a swift apology would have meant a thiry-second story soon forgotten "," with most people unwilling to assume antisemitism for what * could * ( if we ' re being very generous ) have been a mistake . But by owning it as intentional and refusing to apologize "," they eliminated the possibility that they were being misunderstood "," and indicated that it * was * intentionally antisemitic . 
+Entities []
+
+Sentence: TV series where a boy moves to a weird town with an episode where an angel statue cries 
+Entities []
+
+Sentence: Would love to see this improved with some of those cited references and an inclusion of those pictures 
+Entities []
+
+Sentence: Interpretation of Dynkin diagrams 
+Entities []
+
+Sentence: Doctor Who - How did the season 6 finale work out ? ( Spoilers ) 
+Entities []
+
+Sentence: This answer describes the design intent for the difference ( the ability to block encrypted searches ) . The other answers tested the functional difference . The design intent remains unchanged . It ' s a historical fact at this point . 
+Entities []
+
+Sentence: So the density of steam will naturally be less . 
+Entities []
+
+Sentence: If I registered to vote in the nov 2016 elections "," will I also be registered to vote in proceeding special elections ? 
+Entities []
+
+Sentence: Bernoulli ' s principle : Why an increase in the section area in a hose makes the pressure increase ? 
+Entities []
+
+Sentence: Might want to note that this Wookipedia excerpt seems to be sourced from a Legends book that had continuity problems to begin with . Not sure what proper Canon sources are for " detect location of hidden creatures " . 
+Entities [('Canon', 'B-person')]
+
+Sentence: Did George Smiley ' s wife Ann already know that Bill Haydon was a mole ? 
+Entities [('Did', 'B-person'), ('George', 'B-person'), ('Smiley', 'I-person')]
+
+Sentence: How can the European Union enforce the General Data Protection Regulation ? 
+Entities [('Data', 'I-location'), ('Protection', 'I-product')]
+
+Sentence: _ " a real owl that had a little prior training so it would n ' t be scared away by the gunfire " _ _ " He had heard a lot of gunfire in the previous weeks so that he wouldn ’ t get frightened by it . " _ _ " The owl ' s reaction to Vinny shooting the gun was authentic " _ Was the reaction authentic or not ? These quotes are contradictory . 
+Entities [('Vinny', 'B-person')]
+
+Sentence: Apparently Wikipedia claims that insulators and semiconductors lack Fermi surfaces . Quoting Wikipedia : " A material whose Fermi level falls in a gap between bands is an insulator or semiconductor depending on the size of the bandgap . When a material ' s Fermi level falls in a bandgap , there is no Fermi surface . " 
+Entities [('Fermi', 'B-person'), ('Fermi', 'B-location'), ('Fermi', 'B-location')]
+
+Sentence: Some whatabout is tu quoque fallacy . Some whatabout is a reasonable challenge to fairness . This post assumes all the former . Pretty much everyone across the political spectrum believes in some form of " whataboutism " . 
+Entities []
+
+Sentence: I ca n ' t see any faces . 
+Entities []
+
+Sentence: Why were the Klingons no longer members of the Federation ? 
+Entities []
+
+Sentence: See "," that ' s part of the problem . . . it does n ' t defend against these attacks . In the case of a disgruntled employee . . . it would require them to change 1 line of code . . . and the whole system is void the next time you log in . . . and in terms of eve being able to monitor the connection but not change anything . . . that isnt prevented by there " added security " . . . its prevented by SSL / TLS . 
+Entities []
+
+Sentence: The 22 nd Amendment is "," by definition "," not a law . 
+Entities []
+
+Sentence: I have "," a few hours ago "," it only ollected 2 neg votes so far 
+Entities []
+
+Sentence: What is the connection between the Foucault pendulum and parallel transport ? 
+Entities []
+
+Sentence: it would be very difficult for me to back up that claim because i never made it . all i said is that one should be prepared to evaluate reports / claims from all sources "," including those from the ngos . maybe re-reading what I wrote would be helpful . 
+Entities []
+
+Sentence: Frequency of photon and frequency of EM wave 
+Entities [('photon', 'B-person')]
+
+Sentence: Potential HTTP Host header attack from malicious IP "," what does it mean in practical terms for me ? Should I be concerned ? 
+Entities []
+
+Sentence: Was this a typo from the table maker "," or are other criteria taken into account when calculating the overall score ? He ' s also coincidentally the very first example on the page about [ geniuses ] ( http://marvel.wikia.com/wiki/Category:Genius_Intelligence ) . 
+Entities []
+
+Sentence: Greens function application Abrikosov - QFT in Statistial Physics 
+Entities [('Greens', 'B-person'), ('QFT', 'B-person')]
+
+Sentence: did the 5 steps in the link not work for you ? 
+Entities []
+
+Sentence: @ SQB I meant to say it ' s NP hard if we solve the general problem : a sequence of n numbers and a number M that some subsets of the numbers will meet or exceed . However "," I believe I may ' ve found a recursive approach that takes only linear time . . . maybe . 
+Entities []
+
+Sentence: Who ’ s the villain in the Powerless trailer ? 
+Entities [('Powerless', 'I-location')]
+
+Sentence: Why did n ' t someone make Lily and James Potter portraits like the dead Hogwarts Headmasters ? 
+Entities [('Lily', 'B-person'), ('James', 'B-person'), ('Potter', 'I-person')]
+
+Sentence: How long untill Quidditch is played properly ? 
+Entities []
+
+Sentence: Being insulting and rude "," because your tribe demonizes politicians whose beliefs differ with yours is not " the truth " . You can have a civil discussion without being strictly PC . When you use pejoratives like that "," it diminishes the effectiveness of your argument for anyone who is n ' t already inclined to agree with it . 
+Entities []
+
+Sentence: What is the significance of buttocks ? 
+Entities []
+
+Sentence: You get what you accept . If you set high standards your employees will rise to the challenge . # smallbiz https://t.co/B1AxZpTxpB 
+Entities []
+
+Sentence: RT @ baabyylex : rape "," incest "," financial issues "," health issues "," the millions of children that are already put up for adoption that d … 
+Entities []
+
+Sentence: EP 8 : @ YungBang 954 " I Jumped off the porch in the 8 th or 9 th grade " https://t.co/nSEqjAl4O8 
+Entities []
+
+Sentence: RT @ soyourelikethat : write honestly to yourself or don ' t waste the damn time 
+Entities []
+
+Sentence: Localizing Yakuza 0 was about balancing clarity and authenticity : https://t.co/S5pUlpNwT3 
+Entities [('Yakuza', 'B-person')]
+
+Sentence: There is pleasure in the pathless woods # Kalupey 
+Entities []
+
+Sentence: # sex slave sites girl uses urinal porn https://t.co/hroXOjtyem 
+Entities []
+
+Sentence: RT @ omsblvr : for myself "," a heart . https://t.co/l3Hk7pWE5g 
+Entities []
+
+Sentence: @ skipsy _ l Right ? ! I went to take a shower & amp ; head to bed . My phone was blowing up . I was like . . wth is happening ? Then booya ! Hit that quota ! 
+Entities []
+
+Sentence: Waitlist # 3 but doubt I ' ll get in the class . Low key not even mad 
+Entities []
+
+Sentence: ' ' Ladies And Gentlemen "," We Bring To You The Girl With The Biggest Vagina In The World https://t.co/6JYh3Id7BW 
+Entities [('The', 'B-location'), ('Biggest', 'I-location'), ('Vagina', 'I-product'), ('In', 'I-product'), ('The', 'I-product')]
+
+Sentence: RT @ heyimbee : @ StrauberryJam SHE IS DEAD 
+Entities []
+
+Sentence: RT @ _ yungJ 3 : I just need my diploma 
+Entities []
+
+Sentence: https://t.co/59y6vduVlw 
+Entities []
+
+Sentence: https://t.co/LLXf24DHsh 
+Entities []
+
+Sentence: Mom still defending the Trump sexist racist line . Worked wonders on November . 
+Entities [('Trump', 'B-person')]
+
+Sentence: Children ' s of A is hiring ! Audiologist - B # jobs in BIRMINGHAM Apply today https://t.co/wKWqB2ix2I 
+Entities []
+
+Sentence: RT @ iCleverOfficial : # Giveaway time ! RT & amp ; Follow us for a chance to # WIN a fitness gift basket full of iClever products ! … 
+Entities []
+
+Sentence: # adult learning grant china teen xxx https://t.co/jnPqolZgSP 
+Entities []
+
+Sentence: Celebrate Burns Night with the Bobby Burns cocktail https://t.co/VNgfThJN2V # whisky # cocktails # homebartender # cocktailsathome 
+Entities [('Bobby', 'B-location'), ('Burns', 'I-location')]
+
+Sentence: RT @ cIits : Being sexually frustrated is the worst 
+Entities []
+
+Sentence: RT @ CreepBJ : Wow ! ! See thru leggings are awesome https://t.co/YPSuF6GgVm via @ SexySights @ SexyCreeps @ CreepShotsLive https://t.co/0TwauVET… 
+Entities [('SexySights', 'B-location')]
+
+Sentence: Just posted a photo https://t.co/mi0kwHp0vl 
+Entities []
+
+Sentence: Legal Assistant Location : Los Angeles https://t.co/kRAqm0LiK7 
+Entities [('Legal', 'B-location'), ('Assistant', 'I-group')]
+
+Sentence: OMB nominee Mick Mulvaney wants changes to Social Security "," Medicare https://t.co/4NdBdMXSC3 via @ WSJ 
+Entities [('Mick', 'B-person'), ('Mulvaney', 'I-person')]
+
+Sentence: https://t.co/3CqQHLw4J7 
+Entities []
+
+Sentence: Show HN : Hib — a bionic cycadales "," precociously incanted in Umple . 
+Entities []
+
+Sentence: RT @ Gwynstone : Beautiful carved pups are sitting pretty as they dangle from your ears . Just add to your cart and t https://t.co/OBIGoOpwkI 
+Entities []
+
+Sentence: to com fome 
+Entities []
+
+Sentence: If KITT has all the features of the show . . Then without a doubt its Kitt . . . But if its just appearance the . . . https://t.co/64EX6ktzAa 
+Entities [('KITT', 'B-location'), ('Kitt', 'B-location')]
+
+Sentence: RT @ bwecht : Rachel : Audrey "," I love you . Audrey ( 2 yrs old ) : I no love you ! Rachel : Well "," that makes me sad . Audrey : Cry ! Cry like a baby cr … 
+Entities [('Rachel', 'B-person'), ('Audrey', 'B-person'), ('Audrey', 'B-person'), ('Audrey', 'B-person')]
+
+Sentence: @ Ubermatik Anti fascist raccoons are a thing I can dig ?? 
+Entities [('Ubermatik', 'B-person'), ('Anti', 'I-person')]
+
+Sentence: RT @ jellombooty 4 : my heart is beyond happy right now 
+Entities []
+
+Sentence: RT @ CarolSankar : “ The Confidence Factor for # Women : # Equalpay is important "," especially for # girls ” https://t.co/MfkU0QLHs0 . @ girlsrockclt 
+Entities []
+
+Sentence: Be someone who makes time for a new goal even though the last 1 "," 2 "," and or 3 rd 1 fell through . 
+Entities []
+
+Sentence: @ MizaninMagic Since you weren ' t looking . ?? 
+Entities []
+
+Sentence: Don ' t judge a tea by its packaging # tea https://t.co/s5cD7cFXF2 
+Entities [('Don', 'B-person')]
+
+Sentence: @ rcava only if his $ 13 MM is holding up FO from spending on bullpen . 
+Entities [('MM', 'B-location')]
+
+Sentence: LRT why is nobody talking about Prompto ' s official Roen belt ? https://t.co/mUsYf1AVR3 
+Entities [('LRT', 'B-person')]
+
+Sentence: RT @ itslifethought : Before you pray "," believe . Before you speak "," listen . Before you spend "," earn . Before you quit "," try . Before you die "," live . 
+Entities []
+
+Sentence: How to use the technology you have to recruit the best agents realtor news https://t.co/jbVvY8zOed 
+Entities []
+
+Sentence: Daily Audio Bible Program is starting now ! Listen live here : https://t.co/JvWxU2IgAy 
+Entities []
+
+Sentence: @ Calfreezy how the act on tinder vs how they are in real life 
+Entities [('Calfreezy', 'B-person')]
+
+Sentence: Devonport : - the current temp is 23 . 0 ° C | wind speed 0 . 0 km / h | gusting 0 . 0 km / h | rain today 0 . 0 mm | https://t.co/L8Xwxd2izS 
+Entities []
+
+Sentence: @ FANGIRLOVERLOAD but I do ?? once they ' re in stock online . . . I ' ll DM you ?? you DESERVE a Clarke as a token for being a sweetheart ?? ?? 
+Entities [('Clarke', 'B-person')]
+
+Sentence: Kelli ' s Cardio Kickboxing Workout - Max Calorie Burn Workout with no Equipment # fitnessblender https://t.co/df66JQrqeM 
+Entities [('Burn', 'B-person')]
+
+Sentence: 28 # InformationSecurity Resources Some Information Security Leaders Cry Out About . Please Retweet https://t.co/BCPt9V63op 
+Entities []
+
+Sentence: This kids will love making this erupting volcano https://t.co/AThemYUuUf https://t.co/g3PR3PC0Ea 
+Entities []
+
+Sentence: RT @ glofuI : Some people will have to learn how to appreciate you by losing you . 
+Entities []
+
+Sentence: @ AlicesdrThe @ CuriousCatMe KKKKKKKKKK vc me ama "," eu te aviso qnd eu for fzr pra vc entrar 
+Entities []
+
+Sentence: RT @ angryblackhoemo : But let ' s go along w / the idea that sex is immoral and that could be a cause for higher HIV diagnoses among Black Gay … 
+Entities []
+
+Sentence: RT @ BeautyOfAnAries : What my mom sent me . Pass it along . ?? https://t.co/5mKW2mdAsO 
+Entities []
+
+Sentence: # iTECH 2 # technology Bots _ alive kit imbues toy robots with charming "," lifelike AI . . . https://t.co/AUQRSUZqy6 
+Entities [('Bots', 'B-location')]
+
+Sentence: RT @ MissMcCleary : Am I the only one that gets like re-angry ? If I ever talk about anything that ' s ever pissed me off I get pissed off all o … 
+Entities []
+
+Sentence: # corvette # auction 2017 Chevrolet Corvette MSRP $ 102520 Grand Sport 3 LT GPS Leather Torch Red New Navigation … https://t.co/K9TZaaLa7k 
+Entities []
+
+Sentence: RT @ NicholasPegg : One of the Doctor ’ s finest moments - from an episode shown 40 years ago today . Fancy that . https://t.co/neU9Et3d0B 
+Entities [('NicholasPegg', 'B-location')]
+
+Sentence: RT @ Mediaite : Minnesota Governor Announces He ’ s Been Diagnosed with Prostate Cancer https://t.co/cik5GuAd8d ( VIDEO ) https://t.co/ji4KSkv62m 
+Entities [('Mediaite', 'B-location'), ('Minnesota', 'B-person'), ('Governor', 'I-person'), ('Diagnosed', 'B-location')]
+
+Sentence: RT @ issafeminist : he was choked up "," and sincere . malachai parker cared about bonnie bennett and no one can tell me otherwise . https://t.co/… 
+Entities []
+
+Sentence: Because : Why the hell not . https://t.co/bLckZfTX8g 
+Entities []
+
+Sentence: Can we talk about how bap are # 1 on a list full of rock music ; ; ; only bap could do this & gt ; . & lt ; ? https://t.co/Y4ZL0cYp2V 
+Entities []
+
+Sentence: @ TPM Stop whining a-hole . https://t.co/138JaBHtzg 
+Entities []
+
+Sentence: @ RevAaronMarquis Based off ELR "," I assume you smoke ? If so "," are you one of the few RT employees who do ? 
+Entities [('ELR', 'B-person')]
+
+Sentence: It ' s January 25 "," 2017 at 7 : 0 AM "," good morning people ! ! 
+Entities []
+
+Sentence: @ FinBergin Exactly "," you ' re not in the wrong here 
+Entities []
+
+Sentence: @ timkaine help us please . . m save us from him . 
+Entities []
+
+Sentence: @ hollydollyrazzy u can always pitch a tent in some swampland ! 
+Entities []
+
+Sentence: RT @ TheCWSupergirl : Roulette returns . . . # Supergirl https://t.co/9tQ6nuttJK 
+Entities []
+
+Sentence: Moving your work week along to the weekend with a little Margarita Madness and our fantastic Shrimp Feat . Join us . . . https://t.co/GHZa0nHAqp 
+Entities []
+
+Sentence: RT @ BadlandsNPS : Presently we have nationwide around 10 % of their historic population . # ParkScience # bighorns https://t.co/w0z8oJG95m 
+Entities [('BadlandsNPS', 'B-location')]
+
+Sentence: @ fayebanogon ANO TO MAY TRABAHO KA NA BA 
+Entities []
+
+Sentence: I ' m just ready to go home & amp ; get in my bed . Honestly . Truly . https://t.co/8aJeCHwUAh 
+Entities []
+
+Sentence: https://t.co/5Y1I3P9pZ8 
+Entities []
+
+Sentence: RT @ KidDirtyJokes : I ' ve been laughing at this for 20 minutes https://t.co/9Q5W8t4VJp 
+Entities []
+
+Sentence: @ Bmac 507 @ BiasedGirl @ jimgeraghty I ' m trying to ! 
+Entities [('Bmac', 'B-location')]
+
+Sentence: https://t.co/EpyCB6rhmq 
+Entities []
+
+Sentence: @ rootstroye oh omg i forgot you don ' t live in toronto oOPS 
+Entities []
+
+Sentence: RT @ elessar 42 : Psst . Trump saying that millions voted illegally is pretext to destroy voting rights . Don ' t treat it like some random quirk . 
+Entities [('Trump', 'B-person')]
+
+Sentence: @ Bulls _ Jay I ' d like to think their mess levels are on par 
+Entities [('Bulls', 'B-location')]
+
+Sentence: Making my base secure : ) https://t.co/N3lVSY6tUX 
+Entities []
+
+Sentence: This how females should react when they found out the nigga been cheating total respect ?? https://t.co/uSVwoeZC8B 
+Entities []
+
+Sentence: RT @ Harry _ Styles : Glasgow 7 . 10 . 15 . https://t.co/oktJP82lDd 
+Entities [('Glasgow', 'B-person')]
+
+Sentence: # SEO Tip : Google considers the first lines of the page important . Put menu "," headers + important text on top . # google 
+Entities []
+
+Sentence: RT @ stealthygeek : I don ' t remember the rest but the punchline is punch Nazis . https://t.co/9FzK5V0UnP 
+Entities []
+
+Sentence: # teenporn # images More @ https://t.co/qtYi58zYnP for free . No tricks . # porn # pornvideo # gifporn # porngif https://t.co/GWTJ560NIQ 
+Entities []
+
+Sentence: Yes "," I ´ ve changed . Pain does that to people 
+Entities []
+
+Sentence: RT @ StoutBoyz : You already know who finna snitch lmaooooo https://t.co/Ex7KVN1BuB 
+Entities [('StoutBoyz', 'B-location')]
+
+Sentence: Bangkok "," Thailand : Land of Smiles - Day 1 # blog # conozcopablo # Travel https://t.co/qxLmN6lGV4 
+Entities [('Thailand', 'B-location'), ('Land', 'B-location'), ('Smiles', 'B-location')]
+
+Sentence: Lockheed says Trump pressure won ' t affect F- 35 profitability - https://t.co/qaer0LaaN2 
+Entities [('Trump', 'B-person')]
+
+Sentence: RT @ brianklaas : Badlands National Park posted a basic scientific fact that defied Trump . Now "," it ' s been deleted . Retweet anyway . https://t.… 
+Entities [('Park', 'I-location'), ('Trump', 'B-person')]
+
+Sentence: Just posted a photo @ Kembar Mas Utara - Buahbatu https://t.co/u7WQDGcSVW 
+Entities [('Kembar', 'B-person'), ('Mas', 'I-location'), ('Utara', 'I-location')]
+
+Sentence: https://t.co/3kPsB84H8C 
+Entities []
+
+Sentence: Court Reinstates Man ' s $ 25 Million Award in Acne Drug Case - https://t.co/JtJEKJOcvU 
+Entities [('Court', 'B-person'), ('Reinstates', 'I-person'), ('Acne', 'B-person')]
+
+Sentence: DING DING DING DING DING DING DING DING DING DING DING 
+Entities []
+
+Sentence: If only this winch could get us out of going to work . Tag someone who should skip work and hit the trails with yo … https://t.co/KW14LHfOKW 
+Entities []
+
+Sentence: The iconic " Let ' s chat later " https://t.co/OwRUomNgv0 
+Entities []
+
+Sentence: RT @ TheVidSpot : This awesome invention is basically a treadmill rock climbing wall https://t.co/rduhyjvMGq 
+Entities []
+
+Sentence: RT @ lisaag 923 : Life takes us on some incredible journeys . At times we feel lost or unsure of the decisions we … https://t.co/0AkmHXq9WG 
+Entities []
+
+Sentence: On the Street … The Fortezza "," Florence # photos https://t.co/8r0AHF8Mff 
+Entities []
+
+Sentence: RT @ zvhirXX : girls please bring these back . https://t.co/2WGQ1H8w6o 
+Entities []
+
+Sentence: RT @ KnifingTourney : The Knifing Tourney 2017 Judges . https://t.co/0xLPX96NHA 
+Entities [('KnifingTourney', 'B-location')]
+
+Sentence: RT @ TheVidSpot : This awesome invention is basically a treadmill rock climbing wall https://t.co/rduhyjvMGq 
+Entities []
+
+Sentence: Someone be down to go to JoJo ' s concert with me 
+Entities []
+
+Sentence: RT @ GraysonDolan : Yeah I deleted the first version of that tweet because of spilling errors 
+Entities []
+
+Sentence: RT @ DumpTrump 22 : # SpicerFacts https://t.co/QgTMuKN7mT 
+Entities []
+
+Sentence: # porn star brandy free old man sex https://t.co/IzjQGVEnxg 
+Entities []
+
+Sentence: Doing play by play with my buddy @ jfradioshow for the Senate v house basketball game . Let ' s go Senate ! https://t.co/gf0q0vLBV1 
+Entities []
+
+Sentence: 2017 - 1 - 25 1 : 0 : 11 . 530490 ( Sensor : 17 # Temp : 17 . 0 # Humi : 38 . 0 ) ( Sensor : 18 # Temp : 15 . 0 # Humi : 37 . 0 ) ( Sensor : 27 # Temp : 15 . 0 # Humi : 36 . 0 ) 
+Entities []
+
+Sentence: # Good New # Nike Air Jordan 11 XI # Retro Low Cherry Varsity Red 100 % Authentic Size 10 . 5 https://t.co/SnsOc5pEwP … https://t.co/moOb6H9YD8 
+Entities [('Air', 'B-location'), ('Jordan', 'I-creative-work'), ('Authentic', 'B-location'), ('Size', 'I-location')]
+
+Sentence: RT @ Igbtryden : “ @ edsheeran : My best friend is getting married today . Mega awesome wicked cool . ” http://t.co/DeqPMdoyoB 
+Entities [('edsheeran', 'B-person')]
+
+Sentence: Man Finna bring me a ?? up to my job ?? 
+Entities []
+
+Sentence: @ JennaJackson 16 kill you during birth I think it ' s a selfish act because that ' s a life even if you don ' t think it is 
+Entities []
+
+Sentence: RT @ dazb 160 : @ GlennTemp @ adidasanorak @ DeadstockUtopia @ OriginalSoleog Indoor Super at the moment . Summer wear ! 
+Entities [('OriginalSoleog', 'B-location'), ('Indoor', 'I-location')]
+
+Sentence: Sacha Baron Cohen turns football hooligan as his The Brothers . . . # SachaBaronCohen https://t.co/j5sX477935 # sachabaroncohen 
+Entities []
+
+Sentence: RT @ kaleyrams : I just screamed " I hate myself " and 2 minutes later I hear my little brother sliding this note under my door https://t.co/WN… 
+Entities []
+
+Sentence: Do not blame your past "," because the past will never change . 
+Entities []
+
+Sentence: Your friends and associates might not be there to support you . . . More for Aquarius https://t.co/6R6L36dVnM 
+Entities []
+
+Sentence: RT @ _ OutOfTheSea _ X : After so many years I do not understand why Barbie and ken don ' t live together 
+Entities []
+
+Sentence: RT @ WhennBoys : I want a boyfriend who will take me to concerts . . or just a boyfriend . . or just concert tickets . . or concert tickets to see … 
+Entities []
+
+Sentence: RT @ PornHardd : @ 69 sexxxo @ Teddys _ takeover @ irinagomez 60 @ Chicas _ Web @ VirtuAss @ sexotx @ tias _ twiter @ PornHardd @ ophelia 231013 … 
+Entities [('Chicas', 'B-location'), ('VirtuAss', 'B-location')]
+
+Sentence: @ rmathis 15 Nicole ' s raspberry sorbet gum ? 
+Entities []
+
+Sentence: @ grigiosluts @ ArtpopRemixed you keep saying " if " it didn ' t face it ffs 
+Entities []
+
+Sentence: RT @ broodingbrahmin : As a veteran "," this fills me with rage . Contemptuous disregard for those who fought and died honorably serving this … 
+Entities []
+
+Sentence: RT @ romanhipaula : https://t.co/MzXu2uqOMC 
+Entities []
+
+Sentence: The River Rom "," also in places known as the River Beam "," is a river in Essex which becomes a tributary of the River … https://t.co/jzzw4lSsJa 
+Entities [('The', 'B-group'), ('River', 'I-product'), ('River', 'B-location'), ('Beam', 'I-location'), ('Essex', 'B-location'), ('River', 'B-location')]
+
+Sentence: RT @ jesusworecrocs : This is what happens when you give a baby a vegan smoothie https://t.co/37wHYS3GZq 
+Entities [('jesusworecrocs', 'B-person')]
+
+Sentence: 8 https://t.co/hVwmiPRbPI 
+Entities []
+
+Sentence: https://t.co/ZDANOd13Lv 
+Entities []
+
+Sentence: https://t.co/hqwCwEtjJv 
+Entities []
+
+Sentence: frugaliscious : It ' s Arri ' s Playtime Tv : how to start The Fisher- P . . . https://t.co/rSiOwfOSWY 
+Entities []
+
+Sentence: # naked on the stree teen male mature woman https://t.co/TlRrNT1wwI 
+Entities []
+
+Sentence: RT @ ThomasBeautyy : Do you get assaulted "," murdered "," or your rights taken away from being a white bitch with a big mouth ? Yes or no ? https://… 
+Entities []
+
+Sentence: # Astana talks end with breakthrough # To resolve # Syria crisis - https://t.co/pWfNBemi3N https://t.co/oc5Rd1EH0z 
+Entities []
+
+Sentence: Sweeter than a swishaaa "," mad cuz im cuter than the girl thats witchyaaa 
+Entities []
+
+Sentence: # F 4 F # MGWV # FollowTrick # TeamFollowBack # AnotherFollowTrain 
+Entities []
+
+Sentence: RT @ mcgregor _ ewan : Was going on Good Morning Britain "," didn ' t realise @ piersmorgan was host . Won ' t go on with him after his comments about … 
+Entities []
+
+Sentence: @ jellibun hmmm i ' ll prob do that next week i gotta secure my seat at all costs ?? 
+Entities []
+
+Sentence: On god Darius plugs unreliable asf https://t.co/aTJdj52tNv 
+Entities []
+
+Sentence: The Sheep # poetry # poem # writing # amwriting # words # political # DumpTrump https://t.co/Z6dyLcXlWF 
+Entities []
+
+Sentence: I think obi wan Kenobi had short term memory loss when he forgot to mention that Darth is your father and you have a sister @ HamillHimself 
+Entities [('Darth', 'B-person')]
+
+Sentence: RT @ faerieli : 11 : 11 cake ! ! 
+Entities []
+
+Sentence: # authorconfession D 25 : Favourite Inspirational Quote https://t.co/W5VcDV0KzI 
+Entities []
+
+Sentence: Retweeting for @ BadlandsNPS . # ClimateChange is real ! # TheResistance # DefyTrump # TrumpLeaks # DworkinReport … https://t.co/1b7qIhtqwH 
+Entities [('BadlandsNPS', 'B-location')]
+
+Sentence: https://t.co/vlNer7z5w6 
+Entities []
+
+Sentence: omg this song makes me cry everytime https://t.co/Fm5RszmXHz 
+Entities []
+
+Sentence: “ La La Land ” received 14 Academy Award nominations "," tying the record set by the films . . . https://t.co/ubyjCHIWKD by # CNN via @ c 0 nvey 
+Entities [('La', 'B-location'), ('La', 'I-location'), ('Land', 'I-location'), ('Award', 'I-location')]
+
+Sentence: RT @ MasoodRaw : Can you ask them when ramadan is https://t.co/nIi6LOGkPs 
+Entities [('MasoodRaw', 'B-location')]
+
+Sentence: RT @ WorIdStarComedy : Everything this guy does is so jokes ?? https://t.co/uhxmybhsYz 
+Entities []
+
+Sentence: RT @ savmontano : https://t.co/fDc1nJ7WQ6 
+Entities []
+
+Sentence: RT @ miyu _ mon : Beauty comes from within . https://t.co/YLE8Yl86YE 
+Entities []
+
+Sentence: RT @ PandasDaiIy : me after studying for 7 seconds https://t.co/bu7aBkIjYj 
+Entities []
+
+Sentence: Now playing : In My Bed by Amy Winehouse # nowplaying Listen live : https://t.co/pHXLO1eb4v https://t.co/MZNlOyvAJ4 
+Entities [('Amy', 'B-person'), ('Winehouse', 'I-person')]
+
+Sentence: Clean Sweep as cathedral links up with city charity https://t.co/5VEIBK228B https://t.co/DcwFj8k5XE 
+Entities []
+
+Sentence: Blog Technology to review the electronic devices and accessories and other . https://t.co/i5waTFD1Zp | January 25 "," 2017 at 3 : 0 AM 
+Entities []
+
+Sentence: RT @ saykomala : Good morninggg ~ # MissUniverse # Indonesia 
+Entities []
+
+Sentence: RT @ Lawrence : Huge breakthrough ! @ nytimes calling a lie a lie . In front page headline . Should ' ve done it every day of campaign . https://t.c… 
+Entities []
+
+Sentence: this 1492 trump adventure might not work for trump and this time he cannot blame soros . ! ! ! the wall in mexico . . . https://t.co/D9YOoLLuRq 
+Entities []
+
+Sentence: Illuminatiam : The First Testament Of The Illuminati https://t.co/DzwRWGm6fB 
+Entities []
+
+Sentence: RT @ PrisonPlanet : Trump vows to stop Islamic terrorism ! How dare he ? This might offend Islamic terrorists ! I ' m literally shaking . https:… 
+Entities [('Trump', 'B-person')]
+
+Sentence: RT @ bangooan _ aek : https://t.co/hsoMy2Hamk 
+Entities []
+
+Sentence: Probably one of the few people who have always known what I am capable of ?? ?? 
+Entities []
+
+Sentence: RT @ meoyuasa : Love & amp ; kindness move mountains . https://t.co/cu6s6dfpop 
+Entities []
+
+Sentence: I ' ve just voted for @ fifthharmony to win # BestFans 2017 ! # 5 HBestFans https://t.co/fxFNhnvZ4t ?? 
+Entities []
+
+Sentence: RT @ 5 HonTour : # WorkFromHome # BestMusicVideo # iHeartAwards https://t.co/GWdK7L7RtR 
+Entities []
+
+Sentence: RT @ 5 HonTour : # WorkFromHome # BestMusicVideo # iHeartAwards https://t.co/GWdK7L7RtR 
+Entities []
+
+Sentence: RT @ 5 HonTour : # WorkFromHome # BestMusicVideo # iHeartAwards https://t.co/GWdK7L7RtR 
+Entities []
+
+Sentence: RT @ 5 HonTour : # WorkFromHome # BestMusicVideo # iHeartAwards https://t.co/GWdK7L7RtR 
+Entities []
+
+Sentence: RT @ Juvens 90 : If you always date people that aren ' t shit "," you ' re attracted to ain ' t shit people "," cause you ain ' t shit either . . . 
+Entities [('Juvens', 'B-person')]
+
+Sentence: RT @ coppolanat : Sana tu ? Reconecta con el Amor . The Angels are Listening : Snatam Kaur sings Su?i-ai with Ajeet Kaur at . . . https://t.co/… 
+Entities [('Su?i', 'B-location')]
+
+Sentence: @ LCGila 7 @ CuriousCatMe kkkkkkkkkkkkkkk "," pqp 
+Entities []
+
+Sentence: https://t.co/VbwdYoScRn 
+Entities []
+
+Sentence: RT @ Zoe _ Clark _ xxx : Im ready for you daddy you can cum in my pretty little mouth and pretty face daddy . ?? ?? ?? ?? ?? https://t.co/mEKhfsaUXo 
+Entities []
+
+Sentence: RT @ Latinglow _ : Cuaca mahal brurr . . 
+Entities [('Latinglow', 'B-location')]
+
+Sentence: RT @ spanishcvndy : If we can ' t raise a dog together "," then we not meant to be together https://t.co/oKc66awesp 
+Entities []
+
+Sentence: # mature group sex clips fucking black babe https://t.co/WS4mEwtgnw 
+Entities []
+
+Sentence: RT @ TheLeadCNN : . @ jaketapper : There is a reason White House is providing no evidence about voter fraud claim – there is no evidence … 
+Entities [('jaketapper', 'B-person'), ('White', 'B-person'), ('House', 'I-person')]
+
+Sentence: Leaves ! https://t.co/RaRNJ6cu9a 
+Entities []
+
+Sentence: RT @ nochillthalia : 1 . so lets start w this iconic vine https://t.co/GfaKNo5NDS 
+Entities []
+
+Sentence: @ JiovanniVargas she might just have to . I swear if she denies it when I confront her Ima throw a punch ?? ?? 
+Entities []
+
+Sentence: Check out " Yo soy Moana ( Canto ancestral ) " on # Smule : https://t.co/mCxofiCKqd # SingKaraoke 
+Entities []
+
+Sentence: RT @ kartikaaw 32 : Tweet trus for Kezia Warouw # MissUniverse # Indonesia 
+Entities []
+
+Sentence: RT @ ltsFRIENDSposts : Literally me : https://t.co/s58wlbemVP 
+Entities []
+
+Sentence: RT @ NathanZed : he was the only black barber at the shop here . I ' m going to have to put my faith in a caucasian man . First the country "," now … 
+Entities [('NathanZed', 'B-location')]
+
+Sentence: The time is January 25 "," 2017 at 12 : 0 AM . 
+Entities []
+
+Sentence: RT @ Prettyboy _ flako : Who do yall think would win in a fight ? ? 
+Entities [('Prettyboy', 'B-location')]
+
+Sentence: Seoul- Incheon "," South Korea : Old Meets New Part 2 # blog # Featured # conozcopablo # Travel https://t.co/3OzEAUYKjx 
+Entities [('South', 'B-location'), ('Korea', 'I-location')]
+
+Sentence: RT @ MartinBelam : As long as you live you ' ll never see a photograph of 7 women signing legislation about what men can do with their r … 
+Entities []
+
+Sentence: RT @ IngrahamAngle : On my show today @ seanhannity & amp ; I warn @ realDonaldTrump abt staff already leaking to media . https://t.co/RjBWzduYIP 
+Entities []
+
+Sentence: @ MaryKayCabot @ TheKennyRoda @ clevelanddotcom https://t.co/zSacM2iqb7 
+Entities []
+
+Sentence: The Line That Separates You From Massive # Success https://t.co/hEWYC04cHw https://t.co/zh9Ql6P1Ky 
+Entities []
+
+Sentence: I ' ve missed you darling . . . @ tableFIVE 8 https://t.co/pYrsXCEgZy 
+Entities []
+
+Sentence: RT @ glowkit : followers will be chosen today + one instagram follower so 4 winners in total ! ! ) 
+Entities []
+
+Sentence: LUB expires Wind Advisory till 6 : 0 PM CST https://t.co/x5da9yigjY 
+Entities []
+
+Sentence: Judge rules Tamara Lovett guilty of criminal negligence causing her . . . # DiscoveryRidge https://t.co/ro0DxQvUL0 
+Entities []
+
+Sentence: @ BeatrizDjee MAAX QUE BOM 
+Entities []
+
+Sentence: RT @ FillWerrell : I shouldn ' t have laughed so hard https://t.co/NxaARpReEV 
+Entities []
+
+Sentence: RT @ wvucobe : Good luck to @ CoachHuggs and @ WVUhoops tonight ! Don ' t forget it ' s Gold Rush and the pregame light show ! … 
+Entities [('Don', 'B-person'), ('Gold', 'I-group'), ('Rush', 'I-group')]
+
+Sentence: @ Lance 210 I love that prank where you squirted the water on that one guys shoe and he slipped ?? ?? ! What happened after ? 
+Entities [('Lance', 'B-person')]
+
+Sentence: Dieting as demonstrated by fitness bloggers vs . dieting IRL # NHsmc https://t.co/2oz6u8aufr 
+Entities []
+
+Sentence: @ tirckt you made Me pick up Super gals so I ' ll trust you On this ! 
+Entities []
+
+Sentence: My Lyft is lit ! 
+Entities [('Lyft', 'B-person')]
+
+Sentence: @ sallykohn you are a special kind of stupid ! 
+Entities []
+
+Sentence: RT @ elizabeth _ macg : Me 2 weeks ago : I ' m gonna get organized "," get healthy "," and get my life together ! Me now : living off an old bag of M & amp ; Ms "," … 
+Entities []
+
+Sentence: RT @ audubonsociety : . @ BadlandsNPS is a great place to find climate-endangered birds like the Golden Eagle . https://t.co/shCTBCgPOJ https://… 
+Entities [('BadlandsNPS', 'B-person'), ('Golden', 'B-location'), ('Eagle', 'I-location')]
+
+Sentence: @ ballhard _ korin hopefully it wasn ' t loaded ?? 
+Entities []
+
+Sentence: RT @ IamAkademiks : Don ' t let that family show fool u to forget that TI the Rubberband man . https://t.co/2u4mV82Xql 
+Entities [('Don', 'B-person'), ('Rubberband', 'B-person')]
+
+Sentence: kina sex anal https://t.co/iD26UoP7tl 
+Entities []
+
+Sentence: Don ' t worry sissy "," I made it ?? https://t.co/Fm9WB5T6IV 
+Entities [('Don', 'B-person')]
+
+Sentence: More than 500 Smokers Quit by Hypnosis ! https://t.co/hw5pved8nS 25 "," 2017 at 9 : 0 AM https://t.co/9fR8CrvBLi 
+Entities []
+
+Sentence: RT @ MaikoKitamura : The way she stares at him ? ? FOOLISH LOVE PREMIERE NIGHT # LLRelationshipGoals https://t.co/VrbnKAvcVy 
+Entities []
+
+Sentence: Lowongan PT Citilink Indonesia - Recruitment ForFresh Graduate Management Trainee Citilink January 2017 . . . https://t.co/GIGQnl4qTY 
+Entities []
+
+Sentence: RT @ GirIfession : Me when I get my own house https://t.co/WeamavpIMQ 
+Entities []
+
+Sentence: RT @ minsugapics : https://t.co/50Q6D4GKIJ 
+Entities []
+
+Sentence: RT @ MatsMats 94 : @ rolling _ 2 @ NatalieGBorden that is Bannon ' s goal . https://t.co/OomsNdQocf 
+Entities [('NatalieGBorden', 'B-person'), ('Bannon', 'B-person')]
+
+Sentence: @ kimischilling there ' s always something https://t.co/rNGTYQSDUY 
+Entities []
+
+Sentence: Student Guest Program # Bothell https://t.co/BrqvFFslAz 
+Entities []
+
+Sentence: I see why its rope gang now ?? big dick clique @ onsomeshit 
+Entities []
+
+Sentence: @ usedgov Do it while you can ! Who knows what will happen in the coming year ( s ) . ?? ?? 
+Entities []
+
+Sentence: @ TwoBlindBros Fantastic piece on @ NBCNightlyNews tonight ! ! ! Love you guys ! ! 
+Entities [('TwoBlindBros', 'B-location'), ('Fantastic', 'I-location')]
+
+Sentence: RT @ karibrownnn : " Oh how it must break His heart when we walk around so desperately for a love He waits to give us each and everyday . " 
+Entities []
+
+Sentence: RT @ _ ttgm : Don ' t ever think you got it like that with me cause the moment you do I ' ll show you that you ain ' t have it like you think you do … 
+Entities [('Don', 'B-person')]
+
+Sentence: @ WarGit @ northumbriana If Ney had appeared in Marshals uniform he would have been degraded . All his stars and medals torn off into the mud 
+Entities []
+
+Sentence: DELL Inspiron 17 R 5721 Core i 5 - 3317 U 1 . 7 GHz 6 Gb 750 Gb DVDRW 17 . 3 " Laptop https://t.co/SvPm1Qm5dg https://t.co/eG2GWQ5Jv7 
+Entities [('DELL', 'B-person'), ('Inspiron', 'I-person')]
+
+Sentence: Get sexy girls in the palm of hand ! Video chat live on your mobile https://t.co/7pKPP5Izb9 # erotic # babes # camgirls https://t.co/GoTHB4GSor 
+Entities []
+
+Sentence: It is not a problem for her to bend over spreading her ass and slowly finger her tight asshole . … https://t.co/8bWcg5oMOK 
+Entities []
+
+Sentence: RT @ PrisonPlanet : Leftists love women in positions of power . Look at all the white powder candy they ' re sending to Kellyanne . https://t.c… 
+Entities [('Kellyanne', 'B-location')]
+
+Sentence: RT @ HalfOnionInABag : What if this account that is simply half an onion in a Ziploc bag ended up with more followers than … 
+Entities []
+
+Sentence: https://t.co/E4qbKeQnqK 
+Entities []
+
+Sentence: @ CNNPolitics this is a joke right 
+Entities []
+
+Sentence: RT @ HalfOnionInABag : When you realize you would ' ve been better off married to half an onion in a plastic bag : https://t.co/GsjZKDxoRz 
+Entities []
+
+Sentence: RT @ suav 1 be : https://t.co/rbdLUAeHK5 
+Entities []
+
+Sentence: RT @ HotFreestyle : 4 more days till Migos drop their album " Culture " https://t.co/Z0PxA8gtFw 
+Entities []
+
+Sentence: RT @ RelatableQuote : Oh wow I ' m so surprised https://t.co/vcDyRfsie6 
+Entities []
+
+Sentence: @ VroniquePersic 1 @ horttim @ serina _ sgill @ priscillaNK 27 @ janet 23 hbk @ AnaProgl 1 @ Marujk 1 @ Stacy _ WahlLove @ DonnieWahlberg # twug 
+Entities [('VroniquePersic', 'B-person'), ('Stacy', 'B-location')]
+
+Sentence: RT @ ThirtySecFights : Dude gets his ass beat for bullying boys nephew https://t.co/QtU8e6s6SK 
+Entities []
+
+Sentence: UG ! COMEDY SHOW ! at No Fun Bar Starts in 1 Hour-https : / / t . co / YpSUsaWrPF 
+Entities []
+
+Sentence: RT @ invaIidate : Respect yourself enough to walk away from anything that no longer serves you , grows you , or makes you happy . 
+Entities []
+
+Sentence: RT @ CraigRBrittain : I would rather deal with robots / computers than leftists , because I know how to deal with the step-by-step programming o … 
+Entities [('CraigRBrittain', 'B-location')]
+
+Sentence: Local / Online Services : Small Business Go To : https://t.co/ZZqjTDgLcC Advertise Anything - Free . # PromoteBusiness 
+Entities []
+
+Sentence: RT @ WSHHVlDS : IM SCREAMINGGGGGGGGGGGGG https://t.co/PFeXWWcYxY 
+Entities []
+
+Sentence: You might not understand why , but it seems as if people are ha . . . More for Libra https://t.co/ewI2W6UqR1 
+Entities []
+
+Sentence: RT @ soompi : ICYMI- Lee Joon Gi ’ s Agency Responds To Rumors Of The Actor Dating IU https://t.co/cy7Cir3rhq https://t.co/6jGVOyQAte 
+Entities [('Joon', 'B-person')]
+
+Sentence: when you need money and you remember about that unopened bottle of gaviscon you ' ve got in your cupboard x https://t.co/Du7WbfdX6i 
+Entities []
+
+Sentence: get $ 20 discount when you book in airbnb , use this link https://t.co/R0DyOpor86 # airbnb # discount # coupon # code https://t.co/tQdCewRvIW 
+Entities []
+
+Sentence: RT @ baabyylex : rape , incest , financial issues , health issues , the millions of children that are already put up for adoption that d … 
+Entities []
+
+Sentence: RT @ HugotDre : I hate people who pretend to be my friend . 
+Entities []
+
+Sentence: RT @ TheFunnyTeens : best friend starter pack https://t.co/aUQPlTTuP6 
+Entities [('TheFunnyTeens', 'B-location')]
+
+Sentence: RT @ ellsavelli : At least dying ' s permanent https://t.co/Ri48RQT03e 
+Entities []
+
+Sentence: RT @ beatfaceleah : I was bored earlier so I did this ? https://t.co/XD3uZNGQTN 
+Entities []
+
+Sentence: RT @ briankoppelman : Yeah , man . @ jaketapper is handling this as well and professionally and even heroically as one can . Good on you , Jak … 
+Entities [('jaketapper', 'B-person')]
+
+Sentence: RT @ 30 secondrock : The Black Keys - " Lonely Boy " https://t.co/k1hxm2U1Mq 
+Entities [('Boy', 'I-location')]
+
+Sentence: 9 Resources For Crafting The Perfect Outreach Email by @ stephenjeske via @ quora https://t.co/c66x410IUr # emailmarketing # startup 
+Entities []
+
+Sentence: RT @ Kragar _ LGF : “ In times of universal deceit , telling the truth is a revolutionary act ” . # ResistTrump https://t.co/iRzL9NT0Ru 
+Entities [('Kragar', 'B-location')]
+
+Sentence: RT @ JustDidItSport : When coach cancels practice https://t.co/02yy2CFmDR 
+Entities [('JustDidItSport', 'B-person')]
+
+Sentence: @ gisiez Yes , I will try . . i ' m looking for Linux OS have a look good , unlike the Ubuntu it ' s primitive . . . 
+Entities []
+
+Sentence: RT @ maxinejiji : Don ' t keep calm . You ' re in my inappropriate thoughts . 
+Entities [('Don', 'B-person')]
+
+Sentence: RT @ jzaffos : Hey federal scientists : @ highcountrynews is collecting reports of interference or intimidation . Confidential form : https://t.c… 
+Entities [('Confidential', 'B-person')]
+
+Sentence: Don ' t get kettled . Made up charges will follow . https://t.co/b8lsMKIHda 
+Entities [('Don', 'B-person')]
+
+Sentence: RT @ September _ babyy : Five Guys wit ah quickness https://t.co/wBD20JsiC8 
+Entities []
+
+Sentence: RT @ er 1 cmau : # Catalonia ' s foreign minister @ raulromeva : " legally voting to chose one ' s future is rooted in European practice " 
+Entities []
+
+Sentence: @ akinghes siiim tipo , eu to kkkk 
+Entities []
+
+Sentence: hairless teen https://t.co/fhg1VxeLF2 
+Entities []
+
+Sentence: RT @ GayPrideBelize : # MissUniverse # Belize Let ' s Go Belize . https://t.co/9suUngvG7T 
+Entities [('GayPrideBelize', 'B-person'), ('Belize', 'B-location')]
+
+Sentence: RT @ BsbLifestyle _ _ : Another young star gone way too soon ?? ?? ?? https://t.co/HAz33bS8hn 
+Entities []
+
+Sentence: # NowPlaying She In Here Right Now by BiggDawg C Loc on https://t.co/N2EeQhksi0 
+Entities []
+
+Sentence: You can amaze your friends and fellow workers today by your ab . . . More for Virgo https://t.co/KD4RysiyaZ 
+Entities []
+
+Sentence: RT @ DamnFeelings : I could hug you for hours . 
+Entities []
+
+Sentence: Fly away fly away 
+Entities []
+
+Sentence: RT @ KleinISD : The @ KleinISD Daily is out ! https://t.co/KLCfYmZNcC Stories via @ KISD _ Multling 
+Entities [('KleinISD', 'B-person'), ('KleinISD', 'B-person'), ('Daily', 'I-person')]
+
+Sentence: RT @ aprenderinglesz : Life is meant to be fun : A vida parece ser divertida . 
+Entities []
+
+Sentence: RT @ femalebook : @ my crush https://t.co/riUzxZqqGQ 
+Entities []
+
+Sentence: RT @ DoctorZen : Geologists , physicists , chemists , anthropologists , geneticists - - every discipline better denounce any action against EPA . # … 
+Entities []
+
+Sentence: RT @ VicMensa : Album in the homestretch . . . CLOSE ! ?? https://t.co/uqz6zPr5l6 
+Entities []
+
+Sentence: @ LegalGeagle I feel like this may turn out to be way worse . | Cheney Rule . Nice . 
+Entities [('Cheney', 'B-person')]
+
+Sentence: @ KATHERllNE All she was doing was encouraging someone no harm there bud 
+Entities []
+
+Sentence: RT @ a _ mofia : Adulthood : https://t.co/c0arJl1bzM 
+Entities []
+
+Sentence: How to start a Neighborhood Watch in # Napa https://t.co/ckMRuatVDD via @ NapaRegister @ NapaPD # NeighborhoodWatch … https://t.co/T3TqJhoCjU 
+Entities []
+
+Sentence: RT @ SouthernHomo : It ' s like y ' all elected that damn Cloyd Rivers account to be president . I swear to GOD I ' d rather have Dory . https://t.co… 
+Entities [('Cloyd', 'B-person'), ('Rivers', 'I-person')]
+
+Sentence: Pretty much https://t.co/XJedTummZz 
+Entities []
+
+Sentence: RT @ broken : how to trust someone : you don ' t 
+Entities []
+
+Sentence: Want to pretend you ’ re performing in front of 10 , 000 people ? Then decide # whatshouldplaynext on Power 95 . 3 https://t.co/ojpWdx1gIT 
+Entities []
+
+Sentence: " When you understand that life is a test "," you realize that nothing is insignificant in your life . " Rick Warren 
+Entities [('Rick', 'B-person'), ('Warren', 'I-person')]
+
+Sentence: RT @ _ xoxo _ kathlyn : Lmxskaskskssskks i know you not talking https://t.co/ZLcD56L6lT 
+Entities []
+
+Sentence: @ Marcusb 3 _ @ RichHomieHuang I ' ve seen ur dog lick beer off the concrete . Him and Alan can bond better 
+Entities [('Marcusb', 'B-location')]
+
+Sentence: https://t.co/xtojbCD5RB 
+Entities []
+
+Sentence: @ HardCountFOX follow the money . . . very doubtful he retires 
+Entities []
+
+Sentence: https://t.co/XQ2sWdr9vM 
+Entities []
+
+Sentence: @ SeanyReidy anything well done for that matter 
+Entities []
+
+Sentence: New Post : 2000 AD At The Cartoon Museum https://t.co/k1wMU7Kvst https://t.co/h1jGfAx4e9 
+Entities []
+
+Sentence: RT @ davidfrum : The president of the United States has the power to end human life on earth . It ’ s important that he not be disconnected from … 
+Entities [('United', 'B-location'), ('States', 'I-location')]
+
+Sentence: Selamat pagi cegg ku 
+Entities []
+
+Sentence: 10 hot toys that are getting couples into BDSM https://t.co/CmOupNGkuf 
+Entities [('BDSM', 'B-person')]
+
+Sentence: RT @ _ DYLpickle 13 : " What were the women even marching for ? " https://t.co/PIJssdNy86 
+Entities []
+
+Sentence: How to Do a Great Manicure at Home - https://t.co/AlxdR9SWc3 
+Entities []
+
+Sentence: 10 Awesome Resources for Women in Tech https://t.co/QYpEA4agLG via https://t.co/tBcdSK90sj # BOSSTIPS 
+Entities []
+
+Sentence: No brainer . https://t.co/kZMApegN5M 
+Entities []
+
+Sentence: If you prefer to eat food that ’ s # organicallygrown , Chiquita has a # banana for you ! https://t.co/S1poVEnumr https://t.co/qTYbmAe0zw 
+Entities [('Chiquita', 'B-location')]
+
+Sentence: A heart that trusts the lord is a heart at peace . # Heart # TrustTheLord # Peace # Prayer # Faith # Ziglar … https://t.co/Miqq6ZWZRi 
+Entities []
+
+Sentence: @ CassMoneyLive I ' ll DM you lol 
+Entities []
+
+Sentence: RT @ paperbeatstweet : if your fetish is credited artwork youll probably never get off 
+Entities []
+
+Sentence: What happened last night can happen again . # FortuneBot 
+Entities []
+
+Sentence: RT @ Leel _ hussle : Get it how you live . https://t.co/dwLGwEsX6H 
+Entities [('Leel', 'B-location')]
+
+Sentence: RT @ itsdougthepug : When ur friend buys another pitcher https://t.co/UA5iJ1gyKw 
+Entities []
+
+Sentence: Questions Not Answers | Box of Crayons https://t.co/CXafSHeWPV https://t.co/9kvP5sokij 
+Entities []
+
+Sentence: # adult aladdin anal fingering female https://t.co/zrIVyNfI9j 
+Entities []
+
+Sentence: Straight a altered logistic tactic remedial of erratic militancy organizations : eagFcUa 
+Entities []
+
+Sentence: RT @ hobibf : i dare you to tell me this isn ' t taehyung and jungkook https://t.co/YMKHcRifTS 
+Entities []
+
+Sentence: RT @ Nazaire 73 : Trump ’ s budget would cut funding for Appalachia — and his allies in coal country are livid https://t.co/BAt1Wqqiar via @ voxd … 
+Entities [('Nazaire', 'B-location')]
+
+Sentence: # trapmusic # radio Instant Party ! - Horizons https://t.co/yjsUUapTjX 
+Entities []
+
+Sentence: @ kookmin _ ph : 3 thanks hahaha 
+Entities []
+
+Sentence: [ ARTICLE ] Top 5 Highest Paid of Actors Drama Synopsis Lee Young Ae ( Saimdang , Light ' s Diary ) - over a Billion . . . https://t.co/QqJ5YE1RP1 
+Entities [('Saimdang', 'B-person')]
+
+Sentence: How to use data to enhance your # onlineshopping # fulfillment . https://t.co/HndAq3gWE1 
+Entities []
+
+Sentence: @ borg _ nic oi ? 
+Entities []
+
+Sentence: Good morning , beautiful ! https://t.co/cv299VlH5k 
+Entities []
+
+Sentence: Wow ! Kid-in-the-candy-store all-organoid issue of Development ! https://t.co/QYmFX3YFzJ # stemcells What to read 1 st ? … https://t.co/jhcZPpguJ7 
+Entities [('Kid', 'B-person')]
+
+Sentence: @ katarina _ neko / / FANGIRLING SCREaaMS 
+Entities []
+
+Sentence: RT @ davidlongoria 7 An obstacle is often an unrecognized opportunity . - Petteri Tarkkonen # quote https://t.co/kEdv4NLpOm 
+Entities []
+
+Sentence: I ' ve done 3 Collaborations in the Sims 4 but more are to come , check out my Playlist of the ones I already did : - ) … https://t.co/qBJRFu2KBW 
+Entities []
+
+Sentence: https://t.co/uRS5UPaj7J 
+Entities []
+
+Sentence: Layla Sa 3 ida . . . 
+Entities []
+
+Sentence: Uroxatral 10 mg x 90 pills https://t.co/alNLM2jSst 
+Entities []
+
+Sentence: @ Black _ Gandalf @ slickjacky I ' ll miss you 
+Entities [('Black', 'B-location'), ('Gandalf', 'B-person')]
+
+Sentence: RT @ kitttenqueen : if you live in SoCal stay on the look out ! pls rt ! ! https://t.co/l4znIq66RN 
+Entities []
+
+Sentence: @ kinkshamer where what the fuck 
+Entities []
+
+Sentence: RT @ MauricioTheSone : Familia Qian Jung make you feel the heat 
+Entities [('MauricioTheSone', 'B-location')]
+
+Sentence: I guess that is one way to handle being dumped . . . . https://t.co/2s6U7CMWUr 
+Entities []
+
+Sentence: @ CNN He ' s an ass . 
+Entities []
+
+Sentence: It ' s time to bust out some of those old classic games ! https://t.co/BJNEZfJbge 
+Entities []
+
+Sentence: Then raoul spoke m , her eyes in all their pains , oh madam mina . 
+Entities []
+
+Sentence: https://t.co/BJSV3u2Bo1 
+Entities []
+
+Sentence: RT @ meoss 31 : Ed ' s - you are the one who makes me happy Always YOU I swear after five years , you are mine # MAYWARDForCocaColaPH https://t… 
+Entities []
+
+Sentence: RT @ MarioLopezExtra : Whoa . . . Just saw the new # MamaJune ! @ WEtv # JessicaRabbit https://t.co/15FkpMp9gH 
+Entities [('MarioLopezExtra', 'B-location')]
+
+Sentence: @ Willpower _ 8 Sorry for the delay but we ' ve got your reply # HowDoYouFeelChallenge https://t.co/6ax9VLjnZP 
+Entities [('Willpower', 'B-location')]
+
+Sentence: Coe 
+Entities []
+
+Sentence: Sat 18 th Mar 00 : 00 : The # Weather in # Glasgow is currently Partly cloudy and 9 C | Max : 11 C Min : 9 C - # MyWeather 
+Entities []
+
+Sentence: @ maria _ htrza Nope the camera saw it first lucky phon : - ( Maria I love every sexy curv of your body don ' t stop showing that sexy body of yours 
+Entities [('Maria', 'B-person')]
+
+Sentence: RT @ ZenkiEdgar : @ LadyThriller 69 @ DiamondandSilk @ realDonaldTrump Only a possibly because this dope allowed test to happen . https://t.co/oZ… 
+Entities [('LadyThriller', 'B-location')]
+
+Sentence: Evening Forecast : Increasing clouds with little temperature change . # cowx 
+Entities []
+
+Sentence: Sebring Friday Notebook https://t.co/rN8l6W0LGQ 
+Entities []
+
+Sentence: 2 / 2 : Feels Like : 37 F ( 3 C ) Humidity : 24 % Local Forecast : https://t.co/h0fAk3mKwG # weather # news 
+Entities []
+
+Sentence: RT @ marIboros : I ’ d love to relax but it ’ s just not realistic 
+Entities []
+
+Sentence: RT @ Kaaaatie 4 : I just need a really close friend that has a baby so I can have one but not actually have one , ya know ? 
+Entities [('Kaaaatie', 'B-location')]
+
+Sentence: Now playing Money Ain ' t A Problem Feat . French Montana by Diddy ! Click link below https://t.co/MIUcppR9OU https://t.co/HuYksBaHkb 
+Entities [('Diddy', 'B-person')]
+
+Sentence: RT @ 2000 sHits : 50 Cent - 21 Questions ft . Nate Dogg https://t.co/vlZiyvWUxG 
+Entities [('Nate', 'B-person'), ('Dogg', 'I-person')]
+
+Sentence: @ MIrandaBru _ https://t.co/NNbbNE8Y5E 
+Entities [('MIrandaBru', 'B-person')]
+
+Sentence: RT @ ColiDuhh : It ' s been too long ?? # KyState _ RYS 17 # KyState _ RYS 17 # KyState _ RYS 17 https://t.co/PrFVEFlr12 
+Entities []
+
+Sentence: # naked lindsay sex brutal in school girl https://t.co/mPPIMf6DS5 
+Entities []
+
+Sentence: RT @ ffyvibes : a heart that ' s broke is heart that ' s been loved 
+Entities []
+
+Sentence: Hey LOOK the weekend is here ! https://t.co/LXNlQp31hO 
+Entities []
+
+Sentence: RT @ sslah 771 : She ' s Beautiful ! ( 842 ) # SwallaVideo https://t.co/ggbS2kIDpA 
+Entities []
+
+Sentence: brooke from candy girls nude https://t.co/rMP2DXSLnM 
+Entities []
+
+Sentence: @ coffee _ bean 2016 I don ' t have Bellarmine money lmao 
+Entities []
+
+Sentence: You are not alone . https://t.co/gaNO3vU4Im # foodrelatedissueseatingdisorders # generalrecovery 
+Entities []
+
+Sentence: How ' Up and Vanished ' Podcast Helped Solve Cold Murder Case - https://t.co/PzZPTGoGy4 https://t.co/4WGx0t8yLq 
+Entities [('Vanished', 'B-location'), ('Helped', 'I-location'), ('Solve', 'I-group'), ('Cold', 'I-location')]
+
+Sentence: Auto DJ Show is starting now ! Listen live here : https://t.co/qBE5T6alql 
+Entities []
+
+Sentence: Jack Gilinsky , you mean the world to me thanks for everything , i love you . 
+Entities []
+
+Sentence: 3 : 00 AM https://t.co/AhKwvaG0jT 
+Entities []
+
+Sentence: RT @ BCraftStorage : Cast and Director of Moonlight & amp ; Magnolias at the Fly Community Theater Friday and Saturday night 7 pm and . . . https://t… 
+Entities [('Magnolias', 'B-person')]
+
+Sentence: RT @ ttuck _ 5 : Love the game like Mitch ?? https://t.co/3cweqw3yfV 
+Entities []
+
+Sentence: RT @ Konnan 5150 : Just dropped two new videos for https://t.co/uyJSzog8Kt members and later tonight a new 90 minute + Keepin it 100 + ep for $ 3 … 
+Entities [('Konnan', 'B-person')]
+
+Sentence: I don ' t know how it will look like if Leicester wins the champions league and man u wins Europa league ! ! ! ! ! 
+Entities [('Leicester', 'B-location')]
+
+Sentence: how come im just now see this tho ?? anyways you look good ma , love the hair ! https://t.co/bNcI3TgQnw 
+Entities []
+
+Sentence: ?? LIVE on @ YouNow - https://t.co/e8G85hsIag 
+Entities []
+
+Sentence: https://t.co/k20j1BKW96 
+Entities []
+
+Sentence: The power of planning can be a blessing or a curse depending o . . . More for Libra https://t.co/qBO9bRptdZ 
+Entities []
+
+Sentence: Not feeling Trials tonight so I ' ll more likely stream some H 1 Z 1 and Late Night Battlefield 1 with the homies 
+Entities []
+
+Sentence: and y ' all were saying he didn ' t care about iarmys ?? 
+Entities []
+
+Sentence: andrew mccabe fuck flynn then we fuck trump - Google Search @ StefanMolyneux @ realDonaldTrump @ DonaldJTrumpJr https://t.co/XGOEPsF0KB : 
+Entities [('StefanMolyneux', 'B-location')]
+
+Sentence: RT @ WORIDSTARHlPHOP : me trying to get my life together https://t.co/Tase5IehRO 
+Entities []
+
+Sentence: I feel like Mets fans are the best with following their team , maybe im a lil bias tho lol 
+Entities []
+
+Sentence: RT @ ratetank : Anyone who would publicly celebrate someone else ' s extreme invasion of privacy is someone who definitely has lost my respect . 
+Entities []
+
+Sentence: Emilia Clarke trying her best https://t.co/at3jP6prAz 
+Entities [('Emilia', 'B-person')]
+
+Sentence: Development-ready land in town , surrounded by tall pines - $ 129 , 000 https://t.co/ir126rJrzO https://t.co/gXzfyvwiIc 
+Entities []
+
+Sentence: Building a Strategic Relationship With Others is Hard Work https://t.co/Pk7npkZ5jo 
+Entities [('Strategic', 'B-person'), ('Relationship', 'I-person'), ('Others', 'B-person')]
+
+Sentence: @ microgravitylab I saw an actual child wearing a Foxy shirt during my last overnight shift I startled my coworker with how hard I laughed 
+Entities []
+
+Sentence: RT @ UpornTube 2 : hd porn videos for the full clips visit our site & gt ; & gt ; https://t.co/kjXXkmittw https://t.co/Sj9mgipZdj 
+Entities [('UpornTube', 'B-location')]
+
+Sentence: RT @ md _ addam : Typing ' haha ' when you can ' t even smile . Acting like you ' re happy when all you want to do is cry . Tell everyone you ' re okay w … 
+Entities []
+
+Sentence: RT @ FreddyAmazin : this is a no from me , ain ' t no amount of money in the world getting me on it either https://t.co/ziv8nAs1kk 
+Entities []
+
+Sentence: @ Schofe @ C 4 Gogglebox would love if @ ITV could arrange for you and @ hollywills to film the Wha wha tribe . I ' d watch that sooo funny ?? 
+Entities []
+
+Sentence: @ KammBe thats no help 
+Entities [('KammBe', 'B-person')]
+
+Sentence: @ TonyTGoodman @ WholeFoods @ NorahRab We just missed you ! 
+Entities [('NorahRab', 'B-location')]
+
+Sentence: Tonight at 10 on KODE Action 12 News . # kode 12 https://t.co/Ad6ruIyr5M 
+Entities []
+
+Sentence: Help to Stop Cruel Treatment of Monkeys at Biomedical Laboratories ! Plz sign : https://t.co/c55GE1ecfz https://t.co/d7TyB0bIbm 
+Entities [('Cruel', 'B-person'), ('Treatment', 'I-group'), ('Monkeys', 'B-location')]
+
+Sentence: Ireland ' s clinical trials capacity is advancing . We look at Ireland ' s progress in this article https://t.co/QZAkAxLB1d 
+Entities [('Ireland', 'B-location'), ('Ireland', 'B-location')]
+
+Sentence: SUNNNNNNNNNNA 
+Entities []
+
+Sentence: # UC perfect 7 - 7 from the field . Would be 8 if that Caupain 3 counted . @ WCPO 
+Entities [('Caupain', 'B-person')]
+
+Sentence: 2017 , 03 , 18 06 : 30 : 05 jay dmb test 8 - 11 - 2016 
+Entities []
+
+Sentence: RT @ ELVIclothing : To celebrate the launch of our ' Into the Wild ' collection RT and Follow to # win our tropical print culottes ! … 
+Entities []
+
+Sentence: RT @ WorIdStarLaugh : https://t.co/fCqGqmEsvz 
+Entities []
+
+Sentence: Race Recap : Run @ the Ridge 5 K ( 2012 ) - { from my blog archives } # healthybalance https://t.co/bjZAsvcxcs 
+Entities [('Recap', 'B-person')]
+
+Sentence: Wow mbn https://t.co/VQt87Vwz4X 
+Entities []
+
+Sentence: RT @ CrapTaxidermy : " I told you it was fucking hunting season Doreen but Nooooo "," we had to visit your sisters new place by the lake ! " https:… 
+Entities [('CrapTaxidermy', 'B-person')]
+
+Sentence: RT @ marIboros : I love when people open up to me and call me nicknames on their own and just like me and trust me it ’ s such a nice feeling 
+Entities []
+
+Sentence: ATA . 
+Entities []
+
+Sentence: 20 Unusual Baby Names You Havent Heard Of But Should Consider https://t.co/ypA8onSV0Y 
+Entities [('Heard', 'B-person')]
+
+Sentence: 81 % done with Reborn , by Jane Ederlyn https://t.co/cyEzucZWH5 
+Entities [('Jane', 'B-person'), ('Ederlyn', 'I-person')]
+
+Sentence: RT @ abhik 32351 : why Woman ’ s interview gets cancelled ? ? ? ? https://t.co/KI1WURQ5Gw 
+Entities []
+
+Sentence: 15 Mind Boggling Facts That Will Serve Up a Plate of Food for Thought https://t.co/oiHj6IQGuX 
+Entities []
+
+Sentence: @ DepCrusaderz For free ? I have cotton that needs picking . . . 
+Entities []
+
+Sentence: I dream of a day # Birmingham is # Birminghamistan an islamic state with no kufr Police https://t.co/q2XTjd6x0m 
+Entities []
+
+Sentence: OMG ! Why ? https://t.co/KFAEj7Ikk1 
+Entities []
+
+Sentence: RT @ yesImthatdope : Mind your business https://t.co/MBbVGUB9h2 
+Entities []
+
+Sentence: Harry Potter Humour - Writers Write Creative Blog https://t.co/U7LqBNgv3z 
+Entities []
+
+Sentence: RT @ iLGDaily : https://t.co/ymhWfDRoKm 
+Entities [('iLGDaily', 'B-location')]
+
+Sentence: # Positive # Punk # rock # music https://t.co/3U6eUauSOR @ BaszMM # sport # indiedev # gamedev # NowPlaying # guitar # punkrock https://t.co/BAEqu7olPJ 
+Entities [('BaszMM', 'B-location')]
+
+Sentence: I won 7 achievements in 2 games for 220 # TrueAchievement points https://t.co/HQ81xmjBG2 
+Entities []
+
+Sentence: Intensive speech therapy helps months after stroke https://t.co/opScLXtiC3 
+Entities []
+
+Sentence: I will never regret on my decision to support Niall Horan 
+Entities []
+
+Sentence: Trio @ phronesismusic collaborates with the Frankfurt Radio Big Band & amp ; @ JulArgJazz for The Behemoth @ EditionRecords … https://t.co/UV5UG6ec2w 
+Entities []
+
+Sentence: @ realJosephEG https://t.co/v65QoA0Uyx 
+Entities []
+
+Sentence: @ CorporalMum YES ?? . . . that ' ll teach me for doing the laundry & amp ; playing with the dog lol 
+Entities [('CorporalMum', 'B-location')]
+
+Sentence: RT @ CrinkleWuskyCub : # Diaperart For @ WinstonBun I guess he couldnt bring his work pants to work cuz it was still wet : 3 c ! https://t.co/6oZ… 
+Entities []
+
+Sentence: RT @ LanaDelRey : Music To Watch Boys To http://t.co/FLdvkmkwjH 
+Entities []
+
+Sentence: RT @ YasminYonis : How to deal with all your trauma & amp ; baggage . How to date . How to say no . How to save . How to cook . How suffocating a … 
+Entities []
+
+Sentence: Temp 66 . 0 ° F Falling , Dew point 53 . 9 ° Pressure 30 . 101 in Rising slowly Wind N 0 mph Rain today 0 . 00 in https://t.co/gPtnr2dDtV # stlwx # mowx 
+Entities []
+
+Sentence: RT @ anisasx : 116 ) this is so triggering for anyone who watches ahs https://t.co/g5g9LX7fA5 
+Entities []
+
+Sentence: RT @ PauDybala _ JR : # dybalamask could be / podrìa ser / potrebbe essere . . . . https://t.co/Vr8n6CLJGY 
+Entities []
+
+Sentence: RT @ rickygervais : If you don ' t have empathy with animals , you don ' t have empathy at all . Have a peaceful night . https://t.co/z0g9bIDulB 
+Entities []
+
+Sentence: RT @ pipiixx : https://t.co/84tRvF1Qow 
+Entities []
+
+Sentence: RT @ LonesomeGhosts : I ' ve had enough of the world and its people ' s mindless games , so pardon me while I burst and rise above the flame ?? 
+Entities []
+
+Sentence: How Miami Dolphins defensive end spot stacks up , what that means for Dion Jordan https://t.co/41YBT4PnVC 
+Entities [('Miami', 'B-person'), ('Dolphins', 'I-person')]
+
+Sentence: RT @ praises : " you gonna hate yourself in the morning if you stay up late " jokes on you I ' m gonna hate myself in the morning no matter what 
+Entities []
+
+Sentence: https://t.co/HS5IVlstQj https://t.co/r9ErQBSbfV 
+Entities []
+
+Sentence: Jimmy Fallon Makes Blake Shelton Try Sushi # uganda business https://t.co/s2YeAWyFS5 
+Entities [('Jimmy', 'B-person'), ('Fallon', 'I-person'), ('Blake', 'B-person'), ('Shelton', 'I-person')]
+
+Sentence: Aw @ abbykosic I can share with you ? https://t.co/J0IbSu8FLh 
+Entities []
+
+Sentence: RT @ Hilarious _ Idiot : A relationship is not based on the length of time you spent together , it ' s based on the foundation you built together . 
+Entities [('Hilarious', 'B-location')]
+
+Sentence: RT @ JessieBelnap : the feeling when spring break has begun and is twooooo weeeeeks longgggg ! ! ! ! ! https://t.co/PpLp7aLYH7 
+Entities []
+
+Sentence: Then realized i wasnt going ?? https://t.co/V4hh1LZutn 
+Entities []
+
+Sentence: - lc https://t.co/IApsPPIDJx 
+Entities []
+
+Sentence: ParkWest Staffing Services is hiring : Hotel Housekeepers Needed in Spring , TX https://t.co/5dUhYD7OAt 
+Entities []
+
+Sentence: RT @ hobxo : when your girl doesn ' t go shopping with you but your homie does https://t.co/Yhy3HW0zyX 
+Entities []
+
+Sentence: school girls abortion https://t.co/jPlmROK39M 
+Entities []
+
+Sentence: RT @ curscurs : your standards began to be ignored when u let mfs get comfortable in knowing that another chance will always exist 
+Entities []
+
+Sentence: Listen to PreTape by RichiDenz # np on # SoundCloud https://t.co/5x6wc5sRqA 
+Entities []
+
+Sentence: RT @ paleofuture : Seriously , why is Ivanka in these meetings with world leaders ? Has she been given a title yet because this is just … 
+Entities []
+
+Sentence: RT @ ltsGREYSquotes : me 24 / 7 lol https://t.co/25ilXmLgoj 
+Entities []
+
+Sentence: RT @ softpasteIs : Lost in a field of flowers https://t.co/HxlDLinftt 
+Entities []
+
+Sentence: RT @ xaytarak _ vahak : sometimes i wish certain people were never a part of my life 
+Entities []
+
+Sentence: How little respect do you have to have for the role of MP to spend so much time doing other work ? # OsborneResign … https://t.co/EQIbZM9kBb 
+Entities [('MP', 'B-location')]
+
+Sentence: RT @ artificaIly : Drained of blood , the heart is white . https://t.co/k4YzGkWhsm 
+Entities []
+
+Sentence: 14 . Lyla - MANTAN KEKASIH 
+Entities []
+
+Sentence: RT @ LeafyIsHere : https://t.co/NMdsGpkqMt 
+Entities []
+
+Sentence: ShaQ on the phone I ain ' t hear this nigga voice in yearsss ? ? # freethereal 
+Entities []
+
+Sentence: RT @ jinjjarevil : i cant stop laughing HELP https://t.co/05KB18B2wf 
+Entities []
+
+Sentence: RT @ TheBestOfGifs 1 : TWENTY-SIX YEARS AGO ! / / Beauty and the Beast https://t.co/qsy37dQgRa 
+Entities [('TheBestOfGifs', 'B-location')]
+
+Sentence: RT @ ThisFoodTho : Um , Yes https://t.co/QLBNSfPm4u 
+Entities [('ThisFoodTho', 'B-person')]
+
+Sentence: RT @ DrJimmyStar : Have a great night @ jebove 2 @ friutypie 1 @ hope 2259 
+Entities [('DrJimmyStar', 'B-location')]
+
+Sentence: Listen to rock station oldies for Free ! : https://t.co/tszy9zHR61 : your listen Pleasure , avec le titre : Joyous 
+Entities []
+
+Sentence: The waters of doubt can corrode even the strongest of iron wil . . . More for Aries https://t.co/VHrNkvQZiU 
+Entities []
+
+Sentence: RT @ tres _ equis _ : smh y ' all made them stay in the trunk for the pic ? https://t.co/2vQYNK1n91 
+Entities []
+
+Sentence: RT @ MadamMelanin : Skai Jackson for Untitled Magazine https://t.co/sO24ZLf3MA 
+Entities [('Skai', 'B-location'), ('Jackson', 'I-group'), ('Untitled', 'B-location'), ('Magazine', 'I-location')]
+
+Sentence: https://t.co/XXNpJ41oBm https://t.co/pmwJadrya7 
+Entities []
+
+Sentence: https://t.co/kkJ1EVpuNf https://t.co/DU6uOgMqVO 
+Entities []
+
+Sentence: i can smell money already https://t.co/Owbgx5peCE 
+Entities []
+
+Sentence: Now Playing : Apna Sangeet - Valeti Bhabiyan https://t.co/Rplegi07vb 
+Entities [('Bhabiyan', 'I-location')]
+
+Sentence: RT @ AltYelloNatPark : https://t.co/To1QcXH8VD 
+Entities []
+
+Sentence: RT @ Genius : DJs and producers can now get paid for their SoundCloud mixes ?? https://t.co/ovR779rVVr https://t.co/ViWUQUYRCv 
+Entities []
+
+Sentence: # floral # kaleidoscope by # Kaye _ Menner # photography quality prints cards and more at : https://t.co/1gjXZd9Mg7 
+Entities []
+
+Sentence: @ JacobRhines that or shit on them lol 
+Entities []
+
+Sentence: RT @ JacobWhitesides : i would as well https://t.co/1RcEAlxWm5 
+Entities []
+
+Sentence: RT @ marIboros : how do you uninstall school 
+Entities []
+
+Sentence: Could someone explain to me . How people can hate @ edsheeran ? 
+Entities [('edsheeran', 'B-person')]
+
+Sentence: RT @ ItsTravelVibes : Birmingham , United Kingdom https://t.co/WcGf0C68Vz 
+Entities [('Birmingham', 'B-person')]
+
+Sentence: RT @ A _ Sultry _ Mirage : " There ' s always room at our base for another "," Helen . . you know you ' re welcome here ~ " https://t.co/TJbtkggDSY 
+Entities [('Helen', 'B-person')]
+
+Sentence: # 152 Chikorita ( Tackle / Grass Knot 8 / 12 / 0 - 44 . 44 % ) None Paramount Dr L 8 J 2 M 7 , 08 : 30 : 00 pm ( 29 m 45 s left ) https://t.co/tQHwbjzXib 
+Entities [('Chikorita', 'B-person'), ('Knot', 'I-location')]
+
+Sentence: RT @ maywardUn : Good morning @ CocaColaPH 721 K tweets Fresh and Organic . # MAYWARDForCocaColaPH https://t.co/18p6Y8Cs7X 
+Entities []
+
+Sentence: @ HuffPostWeird There ' s nothing " hilarious " about it . Try doing some actual research on the subject . https://t.co/Skmrsuz98e 
+Entities []
+
+Sentence: RT @ coIeactivity : this picture screams perfection https://t.co/0XUuf288j7 
+Entities []
+
+Sentence: I STOPPED BREATHING https://t.co/AUZEmrRInX 
+Entities []
+
+Sentence: https://t.co/RMFvgIOCDa 
+Entities []
+
+Sentence: your smile makes my day stay always better Jack Gilinsky 
+Entities []
+
+Sentence: RT @ Marsupilami _ XXI : https://t.co/UkJrPlaq9t 
+Entities [('Marsupilami', 'B-location')]
+
+Sentence: # xxx naked picture sex beach movies https://t.co/lQsmCd9AOu 
+Entities []
+
+Sentence: RT @ DearYouFromWe : stop rushing your life . just live . just breathe . just be . 
+Entities []
+
+Sentence: Your natural awareness of social justice makes it hard to just . . . More for Aquarius https://t.co/ubeE2ZD4ow 
+Entities []
+
+Sentence: Wind 0 , 0 km / h E . Barometer 1000 , 2 hPa , Falling slowly . Temperature 12 , 4 ° C . Rain today 0 , 0 mm . Humidity 71 % 
+Entities []
+
+Sentence: Free on eBook Blitz : The Eslites by CM Doporto https://t.co/lSmKwx0q4g # ebblitz https://t.co/H7qDz6E2Fv 
+Entities [('CM', 'B-person'), ('Doporto', 'I-person')]
+
+Sentence: Shadows . We had to get out and enjoy the snow before this gorgeous sunshine melted it all ! . . . . … https://t.co/650uEK3Dzq 
+Entities []
+
+Sentence: https://t.co/TCq5aJG6Rx 
+Entities []
+
+Sentence: Saw a turtle https://t.co/89GYXKQHX9 
+Entities []
+
+Sentence: RT @ amyrightside : Age of Defenders - Multiplayer Tower Defense and Offense post . . . https://t.co/kkWpZlqHHk # ipad # games # strategy 
+Entities [('Multiplayer', 'B-person'), ('Tower', 'I-person')]
+
+Sentence: i ' m leaving for # BeautyAndTheBeast : D i ' m so excited i have waited so long for this 
+Entities []
+
+Sentence: We love that we have friends all over the world ! Here is friend Isabella proudly wearing her CIM t-shirt today . . . https://t.co/aEJ0owLbCU 
+Entities []
+
+Sentence: RT @ climb _ chairman : Part 2 . https://t.co/bmPpwNsOMh 
+Entities []
+
+Sentence: @ chabot _ cameron well if you stayed you wouldn ' t go back for another week 
+Entities []
+
+Sentence: . @ keselowski currently p 5 after his first run . | @ allianceparts @ FordPerformance 
+Entities []
+
+Sentence: I got rear ended today . Luckily , this is all the work my car needed . https://t.co/4BEOtmooo9 
+Entities []
+
+Sentence: teen wolf sai logo do hiatus eu te imploroo 
+Entities []
+
+Sentence: RT @ themovingroad : Do all things with love . Og Mandino # quote 
+Entities []
+
+Sentence: # groovy hot sex videos brutal interracial sex https://t.co/svhiOkac2D 
+Entities []
+
+Sentence: RT @ BeautyOfAnAries : ARIES . . . . . . . . our season starts in 4 days ?? 
+Entities []
+
+Sentence: @ JuniorCyclingMY N 9 Under 9 cat just started ! # crit @ khairykj https://t.co/XAsXGiPcfG 
+Entities []
+
+Sentence: RT @ NBCGrimm : Get ready to woge . A new # Grimm starts NOW on @ NBC . https://t.co/lMQA8aJwzL 
+Entities [('NBC', 'B-location')]
+
+Sentence: Tired of fake ass love 
+Entities []
+
+Sentence: RT @ stefondiggs : Throw some more dirt on me but Ima never give up . . 
+Entities []
+
+Sentence: RT @ Independent : Cutting food for elderly ' most compassionate thing we can do ' , Trump team says https://t.co/waaWhnQ07i 
+Entities [('Independent', 'B-location'), ('Trump', 'B-person')]
+
+Sentence: https://t.co/C9riDzsJuv # GanaConWhoolist # ConcursoWhoolist 
+Entities []
+
+Sentence: @ OmniDestiny I ' m all for freedom of speech and expressing your opinion , but there is such thing as doing so respectfully . 
+Entities [('OmniDestiny', 'B-person')]
+
+Sentence: RT @ Hozay _ _ : Just cancelled going to Italy , decided just to have dinner at Olive Garden instead https://t.co/ohA1BYzZsK 
+Entities [('Hozay', 'B-person'), ('Garden', 'I-person')]
+
+Sentence: RT @ kiiingpin 1997 : I want to be someone ' s favorite person to talk to 
+Entities []
+
+Sentence: Dear Amitabh ! Happy Birthday to your daughter Shweta ! Happiness , love , joy and life for many years ! 
+Entities [('Dear', 'B-person'), ('Amitabh', 'I-person')]
+
+Sentence: naked city tv series # nude google videos https://t.co/cFIQG0z1tV 
+Entities []
+
+Sentence: @ TripleUrusai + mind . Just don ' t tell him , ok ? " A playful laugh left his mouth as he held a finger to it . 
+Entities []
+
+Sentence: Me reading really sad manga . https://t.co/uBz9CmWSI0 
+Entities []
+
+Sentence: RT @ KindnessOfMen : Except for Bitter . He ' s always pissed off . 
+Entities []
+
+Sentence: S A I L O R . . . # Photo by Dinko # Dream # Love # Hope # Health # Peace & amp ; # Art https://t.co/aKvsWS5yOa 
+Entities []
+
+Sentence: Daily question 1523 : See if you won ! https://t.co/bFIgz5qPnX # win # winners https://t.co/p4a9cif6Oj 
+Entities []
+
+Sentence: Madama butterfly in the English pub : for those who loves opera with their pint . — feeling intrigued at King ' s . . . https://t.co/ZYqghgQBYp 
+Entities [('Madama', 'B-person'), ('butterfly', 'I-person')]
+
+Sentence: RT @ ricardojkay : someone : ur crush is coming act natural me : https://t.co/GkHJoYTgRW 
+Entities []
+
+Sentence: Do You Have News to Share ? Get It Published . https://t.co/KXfFdDcPE6 
+Entities []
+
+Sentence: People Say I Sound Crazy When I Say This "," But I Can Notttttt Hang With People Who Don ' t Smoke ! 
+Entities [('Notttttt', 'B-person'), ('Hang', 'I-person'), ('Don', 'B-person')]
+
+Sentence: RT @ amber _ elyxx : Everything happens for a reason 
+Entities []
+
+Sentence: RT @ klathelyricist : I ain ' t finna bullshit with you . . . Grow or go . 
+Entities []
+
+Sentence: RT @ LlTFREESTYLES : Fan spits some bars for Lil Yachty https://t.co/Q9IhFEdq5X 
+Entities []
+
+Sentence: Not in his wheel house ! Trumpie is soo dump he don ' t know what he don ' t know ! To stupid to ask for help or advice f … https://t.co/abULFwuvWw 
+Entities []
+
+Sentence: stunning earrings https://t.co/IrUcgYxk26 https://t.co/YerXgDeLfP 
+Entities []
+
+Sentence: RT @ nakbebel : https://t.co/nvvC11Jfe9 
+Entities []
+
+Sentence: RT @ nprmusic : Watch @ ChicanoBatman "," @ spoontheband and @ TheValerieJune live from # SXSW beginning at 1 p . m . ET via @ VuHaus . … 
+Entities []
+
+Sentence: " [ W ] hen the bad people are right here under our noses . " https://t.co/J9lFcRp2xj 
+Entities []
+
+Sentence: RT @ WTF _ Eh : @ SheilaGunnReid @ TheRebelTV You nailed it . # NDP # abpoli # Notley https://t.co/xbGXAlz2q9 
+Entities []
+
+Sentence: # resist # respect https://t.co/S33Aqnzc2r 
+Entities []
+
+Sentence: I just want a man that loves me the way Jack Pearson loves Rebecca . 
+Entities [('Jack', 'B-person'), ('Pearson', 'I-person')]
+
+Sentence: RT @ twentyonepilots : feb 26 n charleston # ERS 2017 photos are up : https://t.co/dXf5vti3RU https://t.co/ecLypmnxxu 
+Entities []
+
+Sentence: https://t.co/yUvYvjLhNi Listen to your body "," your doctor and your common sense about work-related injuries . https://t.co/zz1wnfmQQR 
+Entities []
+
+Sentence: RT @ FlirtyNotes : You never really stop loving someone . You just learn to live without them . 
+Entities []
+
+Sentence: @ CBSSports @ PrimeLeBron I hate that family . 
+Entities []
+
+Sentence: RT @ boujeetuan : mark : - " i was in boy scouts i know what im doing ! " - he dont know what he doing - already started growing weed - s … 
+Entities []
+
+Sentence: RT @ WhoadieBrees : Tatum really Prime Melo in the iso 
+Entities []
+
+Sentence: RT @ FemaleKnows : @ anyone who ' s ever tried to dm or text me https://t.co/0zI1d5mxfG 
+Entities []
+
+Sentence: RT @ jackiedomingez : the loml picked this https://t.co/jPBeiJnDip 
+Entities []
+
+Sentence: @ Hugo _ _ _ _ Hugo check it https://t.co/879v3gOyty 
+Entities []
+
+Sentence: RT @ MarshmallowDoof : I did drawn the Tiger Mama ? ? ? @ BuxbiArts https://t.co/jjvS2aLyHb 
+Entities [('Tiger', 'B-person'), ('Mama', 'I-person')]
+
+Sentence: RT @ defeitoslauren _ : error 404 could not found 
+Entities []
+
+Sentence: Nexus 6 P | Nexus 6 Sleeve Shop : https://t.co/Rg2eopRpWB | # Nexus 6 P # Nexus 6 # Nexus 6 PSleeve # Nexus 6 PCover # Nexus 6 PLeather # Nexus 6 PCase 
+Entities [('Nexus', 'B-person'), ('Nexus', 'B-person')]
+
+Sentence: RT @ _ GoGettaVee : Mentally "," none of this shit can phase me . 
+Entities []
+
+Sentence: / . Trump administration rolls back protections for people in default on student loans https://t.co/YPe2DRsjLe 
+Entities [('Trump', 'B-person')]
+
+Sentence: How "," Russ ? # ThunderUp # AssistOfTheNight https://t.co/RPOPm3Mdup # RhodeIsland 
+Entities []
+
+Sentence: RT @ hobuing : " anyway the members are all doing well " " We are not hurt and we are eating well so don ' t worry " https://t.co/O7wRPyZSJ6 
+Entities []
+
+Sentence: # VoiceOfWipro # CX # CargoIndustry # UX https://t.co/02Vzy4mDqc 
+Entities []
+
+Sentence: Perspective is everything . https://t.co/z3t0Po9knb 
+Entities []
+
+Sentence: https://t.co/rfHnzqMp2x 
+Entities []
+
+Sentence: RT @ SalHernandez : Brett Baier says Fox News " loves " Judge Andrew Napolitano "," but that Fox News was not able to verify his ' report ' https://… 
+Entities [('Brett', 'B-person'), ('Baier', 'I-person'), ('Napolitano', 'B-person'), ('Fox', 'B-location'), ('News', 'I-creative-work')]
+
+Sentence: RT @ WorldStarFunny : Agreed https://t.co/gxHGuH0MR4 
+Entities []
+
+Sentence: RT @ anisasx : 41 ) Her voice is so monotone lool https://t.co/Bd9Cy8BCFv 
+Entities []
+
+Sentence: Alain 3378 played Plague Inc : Evolved ( PS 4 ) in the last 24 hours https://t.co/6Tm2ZBNKip # exophase 
+Entities [('Plague', 'B-person'), ('Inc', 'I-person')]
+
+Sentence: RT @ bubblestbh : do u ever meet someone for the first time and pretend u have never met them but in ur head ur like " i ' ve stalked ur Instagr … 
+Entities []
+
+Sentence: grave https://t.co/JnLglavS4c 
+Entities []
+
+Sentence: Curious George really is the GOAT 
+Entities [('Curious', 'B-person'), ('George', 'B-person')]
+
+Sentence: RT @ JacobSiSLife : You ' re way more important than you actually realize , stay strong ?? 
+Entities []
+
+Sentence: RT @ fordm : Kellyanne Conway ' s husband . https://t.co/ZbjG3oaibk 
+Entities [('Kellyanne', 'B-person'), ('Conway', 'I-group')]
+
+Sentence: A massive happy birthday to one of the loveliest of people @ EmmaWillis ! I hope you have the best day , you deserve i … https://t.co/3F2yHSidpy 
+Entities []
+
+Sentence: RT @ eatmypepi : guys i made a compilation of got 6 dancing the sexiest part in never ever & amp ; i think i want to die . . . . . https://t.co/qrnNcOlbss 
+Entities []
+
+Sentence: RT @ LessGovMoreFun : . Sounds like that outfit that left the White House on January 20 . . . . # Wiretap # WireGate https://t.co/gFWJJ5Llx0 
+Entities [('White', 'B-person'), ('House', 'I-group')]
+
+Sentence: It ' s easy now cause you earned it along the way , get paid young nigga ! https://t.co/JUmMFHKICz 
+Entities []
+
+Sentence: Simple Strategy to build # wealth and protect yourself from the evils of inflation https://t.co/BodTL8r1pU 
+Entities [('Simple', 'B-person'), ('Strategy', 'I-person')]
+
+Sentence: # Fake news trend gathering momentum- a little common sense is all you need to spot # fake # news https://t.co/xIomaTeVGX 
+Entities []
+
+Sentence: https://t.co/DdJpiieeak 
+Entities []
+
+Sentence: RT @ V _ of _ Europe : Europe ' s most horrible person is in the White House . The damage she ' s done to her country and our continent is unpr … 
+Entities [('White', 'B-person'), ('House', 'I-location')]
+
+Sentence: RT @ elklien : I actually miss primary school I was always moving like one slaggy Kat Slater having like 3 relationships at a time 
+Entities []
+
+Sentence: Ever get a chill and get tingly nipples for 10 minutes afterwards ? Asking for me . Jealous ? # unlikeable 
+Entities []
+
+Sentence: @ Yoshkumar Happens ? ? that ' s Esports for ya 
+Entities [('Yoshkumar', 'B-location'), ('Happens', 'I-location')]
+
+Sentence: kim burrel - hold 2 ur faith https://t.co/5SXwx5nhYa # NowPlaying # ListenLive 
+Entities []
+
+Sentence: RT @ sensualgifs : When he tells you no , but then comes to his senses and says yes https://t.co/RYsrtZtbTD 
+Entities []
+
+Sentence: RT @ boyband _ joao : Happy Six Months To All Of The Other João ' s Supporters Out There ! I Love You All ! More Blessings For Everyone ! ? TeamJOA … 
+Entities []
+
+Sentence: RT @ DailySexSupply 7 : https://t.co/q8ASkhEIJl 
+Entities []
+
+Sentence: Here ’ s $ 100 in FREE Postmates delivery credit ( good for 7 days ) . Sign up with my code EJ 3 A or this link https://t.co/On1vy7vwzP 
+Entities [('EJ', 'B-person')]
+
+Sentence: RT @ Drebae _ : If somebody ever try to use you tell your hood boyfriend to have they ass handled . Bet they cut that shit out https://t.co/NDW… 
+Entities []
+
+Sentence: RT @ GreaterThn : Me : " its fine . " Me : https://t.co/Bqy8z0Fuus 
+Entities [('GreaterThn', 'B-location')]
+
+Sentence: Latest level : 0 . 287 m at 17 / 03 / 2017 22 : 45 : 00 ( GMT ) . Further information available at https://t.co/4yVobHQ8mL # riverlevels 
+Entities []
+
+Sentence: RT @ anthonyuJR : When I believe in myself https://t.co/FsGrGS1pz7 
+Entities []
+
+Sentence: RT @ TheCourtKim : you ' re single until you ' re officially cuffed so the limit does not exist ? https://t.co/WeVSETs3KH 
+Entities []
+
+Sentence: Now Playing : Wildfire by @ LFDHcom Listen at https://t.co/3OZcf8iDZJ https://t.co/tkkXMAhzsn 
+Entities []
+
+Sentence: RT @ rhettandlink : Once you start dipping , the vomit starts slipping 
+Entities []
+
+Sentence: @ RichmondDoc TY for continuing to respond . That was A- all right of you . 
+Entities []
+
+Sentence: RT @ thegirlzakiyyah : close minded , no morals , selfish , fake spiritual , no goals . . str 8 dummy ' s for u https://t.co/voDJgXTqsz 
+Entities []
+
+Sentence: RT @ litgrimes : archie and blair — i know she like me https://t.co/gJH2WCGYIu 
+Entities []
+
+Sentence: RT @ marIboros : short girls were born with attitudes lol 
+Entities []
+
+Sentence: A proper # StPatricksDay drink https://t.co/c4VcUFEQXw 
+Entities []
+
+Sentence: RT @ PainfulText : i do really hate how my brain overthinks literally everything 
+Entities []
+
+Sentence: Never Been To Shakers Before 
+Entities []
+
+Sentence: https://t.co/hh3PVQ5L0a 
+Entities []
+
+Sentence: RT @ Ioverthoughts : i like looking cute but i like wearing XL tshirts more 
+Entities []
+
+Sentence: RT @ tybrokesign : talk about a plot twist LMAOOOO https://t.co/9ytVOPvu8D 
+Entities []
+
+Sentence: It ' s # FF add us https://t.co/1W0ACWfr10 repost and I ' ll add you too ? # ATCCfoodie 
+Entities []
+
+Sentence: No Cousins today . . . Pelicans offence could be horrible today unless Holiday has a big game and we hit jumpers 
+Entities [('Cousins', 'B-person')]
+
+Sentence: @ KenyeahMonae It ' s my school fault , girl they cutting up with this dress code ?? 
+Entities []
+
